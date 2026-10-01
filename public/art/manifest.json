@@ -1,0 +1,5448 @@
+{
+  "classes": {
+    "Warrior": {
+      "path": "/art/classes/warrior.png",
+      "label": "Warrior",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "b1b3516579d07cac8c44610e10143be67adb1a2a26fbafdf2efbe53326fa7dcc",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Mage": {
+      "path": "/art/classes/mage.png",
+      "label": "Mage",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "8456a10f1fd63b43c93d0d8399def76f999a17c7af806b987f683267cec9725b",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Rogue": {
+      "path": "/art/classes/rogue.png",
+      "label": "Rogue",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "2e1a9b1f899b7b0b04f2fa3cb881fdd2453111d5cd6b5be092d550a1f0fc6de4",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Fighter": {
+      "path": "/art/classes/fighter.png",
+      "label": "Fighter",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "3b90e0cde8e9e386e1f5dddf2c5558f9074af7e703407e0c870951a11ce8d99f",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Knight": {
+      "path": "/art/classes/knight.png",
+      "label": "Knight",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "f59059b94ddad580ea5f978c81061bc7f695c762495fd21e766db338e7e25bad",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Wizard": {
+      "path": "/art/classes/wizard.png",
+      "label": "Wizard",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "64cf474d6b12de532e4af3bb9f1a82c748baec224c06b0ee29eade4ba2fb2295",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Cleric": {
+      "path": "/art/classes/cleric.png",
+      "label": "Cleric",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "003245d9cb274f17b3711d489140c2ade20eea82fc3868d5cf51628d9bf6749c",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Assassin": {
+      "path": "/art/classes/assassin.png",
+      "label": "Assassin",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "c6de9f0e3ff5c26e2605ea767f50079c09c5b71d80adfdfe3fe6bd9ad7f5055a",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Sniper": {
+      "path": "/art/classes/sniper.png",
+      "label": "Sniper",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "d58799651abdac60c16b1c042f587c82222062bf3a269d9bd74a8962850f7777",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Duelist": {
+      "path": "/art/classes/duelist.png",
+      "label": "Duelist",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "07294491bce6129a7954f990efacaa882d2664282debed5143b614dcf5824722",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Crusader": {
+      "path": "/art/classes/crusader.png",
+      "label": "Crusader",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "af2ef13d3a63fc6da9f37f05f3ffb2762d27160dbe360799b8c130ffd17771b5",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Paladin": {
+      "path": "/art/classes/paladin.png",
+      "label": "Paladin",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "a26d0f9f6f9b561066f7b37113713b87f8917805d264990f7c73610edce8260d",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Vanguard": {
+      "path": "/art/classes/vanguard.png",
+      "label": "Vanguard",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "7fe2a05c1d5e8134164bba22062bb8509c5cab4d94947257f95efd17ff3341fd",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Elemental": {
+      "path": "/art/classes/elemental.png",
+      "label": "Elemental",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "504222f50a61a9a856fd0f5b4ceb1393fe002c2d95f38c10ce02bf38d795a15b",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Summoner": {
+      "path": "/art/classes/summoner.png",
+      "label": "Summoner",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "d9de3f8dae67ccee4fd2dd3818d008072d2b70ed81e597960b824dc9f5602f17",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Priest": {
+      "path": "/art/classes/priest.png",
+      "label": "Priest",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "531bee8f3dd848404974ffc6c5ce562253a6b9ffed407bfaebc5c4d3ae1c14fe",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Battle Mage": {
+      "path": "/art/classes/battle-mage.png",
+      "label": "Battle Mage",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "99c0f6827aa81df9221b55f9bf272a574109e910e5a0e60615d3a316ae8fb6ac",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Mist Dancer": {
+      "path": "/art/classes/mist-dancer.png",
+      "label": "Mist Dancer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "d25b8b181bc82cee7a1e7cc19f2e1143c2af552de1db993b4b6cc49e9b608d3e",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Nightwalker": {
+      "path": "/art/classes/nightwalker.png",
+      "label": "Nightwalker",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "debd39db0f3e940ae98c375bb77eca2c192d87e02ca39653214f4a7018ade589",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Dead Eye": {
+      "path": "/art/classes/dead-eye.png",
+      "label": "Dead Eye",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "19707646680b3840a4b6625775853dc496939ba71930871b6ecfd0a5fe8e2ed5",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Heartmarksman": {
+      "path": "/art/classes/heartmarksman.png",
+      "label": "Heartmarksman",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "c0804fb18dbc64ea2e9459895ede22d403f2f363c33a2e3d404555b11d1b0a51",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Berserker": {
+      "path": "/art/classes/berserker.png",
+      "label": "Berserker",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "8638fead5194272b64e3e79cf913fe8359b0de2c43ec92d8e5e0f8589d2a82de",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Battle Slayer": {
+      "path": "/art/classes/battle-slayer.png",
+      "label": "Battle Slayer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "a34f05a8b769d41953df3dc56327594d705b42f7b55c7931c671b2c272e0b4da",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Guardian": {
+      "path": "/art/classes/guardian.png",
+      "label": "Guardian",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "bbd94847166b38911423be0be8a15cf1f0a1c969ef14c141f6647b3894d24bc2",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Warbringer": {
+      "path": "/art/classes/warbringer.png",
+      "label": "Warbringer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "6ac95eb5857a0b0fa4966b957a2233441fe9ea9ad6fdde0b43522f1027934e81",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Arcanister": {
+      "path": "/art/classes/arcanister.png",
+      "label": "Arcanister",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "ddef490f1b18b734505d11d822539eef656e2bf4a48cf5bc21d61997138d38dd",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Necromancer": {
+      "path": "/art/classes/necromancer.png",
+      "label": "Necromancer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "c8bde6bdcdbb596b893780993746b67cb84dc90016806fb26b388f9c07e1a512",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Hierophant": {
+      "path": "/art/classes/hierophant.png",
+      "label": "Hierophant",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "b0911b81dc77f372b40ccad92dfe4a34258a42ca06964612a03bb560e670e77f",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Templar": {
+      "path": "/art/classes/templar.png",
+      "label": "Templar",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "35fcfd1c28378009b69e39c0962024e1844829505996892c2a3e87a237bd70fe",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Soul Dancer": {
+      "path": "/art/classes/soul-dancer.png",
+      "label": "Soul Dancer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "be9f8b72f3723de5ccf9581bd84f4c90d05eba064645ee169aa02b304f4230c8",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Shadowstalker": {
+      "path": "/art/classes/shadowstalker.png",
+      "label": "Shadowstalker",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "196c009f2f16fad8fcac3df8a69ebeffe0b75c5fd09bc8e28118e6b9cba0417f",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Rift Scout": {
+      "path": "/art/classes/rift-scout.png",
+      "label": "Rift Scout",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "10bd0b46e48ab91703161f8a75ddb85f14e869804589cbaa095ea75edd22ed0b",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Apex Alpha": {
+      "path": "/art/classes/apex-alpha.png",
+      "label": "Apex Alpha",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "8120cdab4f3e87d9117be3200c7d2b21266b280652c7057db82621ae05bbe6cb",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Destroyer": {
+      "path": "/art/classes/destroyer.png",
+      "label": "Destroyer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "931caa083f029a6781b7509ad39647329614df761420f479abff116134e8c306",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Valkyrie": {
+      "path": "/art/classes/valkyrie.png",
+      "label": "Valkyrie",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "0d4976ea2178a2a030dea374cf9dd2dfcfc5fd5597eecc6f59eb8314c884a10c",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Aegis": {
+      "path": "/art/classes/aegis.png",
+      "label": "Aegis",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "942a73373dd94fea671a3384573bd228cf6338de71e473a3c59fd237969f8654",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Dreadlord": {
+      "path": "/art/classes/dreadlord.png",
+      "label": "Dreadlord",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "2e0efd128aa2d9ff3bfc5459f99c27e1bf7a35fa3b46346921c3d9884f31907c",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Chaos Weaver": {
+      "path": "/art/classes/chaos-weaver.png",
+      "label": "Chaos Weaver",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "6c11752e9464d9d90775fd8b1f0f99687a7225164e32d9021fca302fe8ea1ee1",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Devil Lich": {
+      "path": "/art/classes/devil-lich.png",
+      "label": "Devil Lich",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "4da3a6402cfe77d186c7018f0dff12043dcc1bbb3e799cae440c16d7a4833118",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Soul Saint": {
+      "path": "/art/classes/soul-saint.png",
+      "label": "Soul Saint",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "5672740880a8b8114444b97b7b9f7b5718a2e88d812433b244cf808d9fb98002",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Inquisitor": {
+      "path": "/art/classes/inquisitor.png",
+      "label": "Inquisitor",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "e59d36712493b14be69cd3c8a34fd4ed6f70416145d3b3f6c4b6d858c6d4baf0",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Spectral Dancer": {
+      "path": "/art/classes/spectral-dancer.png",
+      "label": "Spectral Dancer",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "387c677b0a922547066a329c18a164d74377d451a28b1570d1300bb0b18b2388",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Void Reaper": {
+      "path": "/art/classes/void-reaper.png",
+      "label": "Void Reaper",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "de3c0a8a4c52ea41c8fff4d81467ca0a3ee7b95d33bdf9c44e49825df8fa5afa",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Soul Sniper": {
+      "path": "/art/classes/soul-sniper.png",
+      "label": "Soul Sniper",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "d3d4d4b37281f8b7281ad4e5d7a19eed7011912c30fb6145aed27325fd2598c6",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "Tempest Gale": {
+      "path": "/art/classes/tempest-gale.png",
+      "label": "Tempest Gale",
+      "source": "v25-approved-chibi-dark-fantasy",
+      "sha256": "f204aa7d9088a2988b0dcfdf53d66c85601d131ce272d46ab9a533558c5ab269",
+      "size": [
+        256,
+        256
+      ]
+    }
+  },
+  "enemies": {
+    "enemy_ash_wolf": {
+      "path": "/art/enemies/enemy_ash_wolf.png",
+      "source": "docs/art/monster-concept-map01-10/map01-ashwood-forest.png",
+      "rect": [
+        18,
+        18,
+        494,
+        399
+      ],
+      "label": "Ash Wolf",
+      "sha256": "b032a296298484c4539608ccf8bf1e113fcf371dea40ce7a4c95e76f795563b4"
+    },
+    "enemy_rotting_skeleton": {
+      "path": "/art/enemies/enemy_rotting_skeleton.png",
+      "source": "docs/art/monster-concept-map01-10/map01-ashwood-forest.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        399
+      ],
+      "label": "Rotting Skeleton",
+      "sha256": "72ced08043f285dc5e563dc5b06ddd74e590702766aeaec92ce2ee7ced539b2d"
+    },
+    "enemy_snake": {
+      "path": "/art/enemies/enemy_snake.png",
+      "source": "docs/art/monster-concept-map01-10/map01-ashwood-forest.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        399
+      ],
+      "label": "Snake",
+      "sha256": "2c486d9af69420304739a762a219edd79e116fd0d3be0bc9f899df83d3394d4e"
+    },
+    "enemy_goblin": {
+      "path": "/art/enemies/enemy_goblin.png",
+      "source": "docs/art/monster-concept-map01-10/map01-ashwood-forest.png",
+      "rect": [
+        18,
+        530,
+        494,
+        911
+      ],
+      "label": "Goblin",
+      "sha256": "5d89c42a5e364a84b0168f892754d69ca5265320d9acd602b63a70e5dd8ed07f"
+    },
+    "enemy_ash_wolf_alpha": {
+      "path": "/art/enemies/enemy_ash_wolf_alpha.png",
+      "source": "docs/art/monster-concept-map01-10/map01-ashwood-forest.png",
+      "rect": [
+        660,
+        522,
+        1505,
+        916
+      ],
+      "label": "Ash Wolf Alpha",
+      "sha256": "caa76ee411b8ea2eba3b228337a6de20c60cdafe1de5cd02d35d389d6d0651b4"
+    },
+    "enemy_dire_wolf": {
+      "path": "/art/enemies/enemy_dire_wolf.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        18,
+        18,
+        494,
+        399
+      ],
+      "label": "Dire Wolf",
+      "sha256": "9f30ba4ae6701f76e9e773333b8852af58aee516c29225bdcdb5a773091a0a4f"
+    },
+    "enemy_fang_bat": {
+      "path": "/art/enemies/enemy_fang_bat.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        399
+      ],
+      "label": "Fang Bat",
+      "sha256": "d834ad0974875deedaf1d3b30721a5acb3c3df510cee495aef2cac15a0504d25"
+    },
+    "enemy_goblin_shaman": {
+      "path": "/art/enemies/enemy_goblin_shaman.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        399
+      ],
+      "label": "Goblin Shaman",
+      "sha256": "da10342c8dbed42ad3e3ed921dc7e2efaec79694337a8817361772513020ef10"
+    },
+    "enemy_gray_bear": {
+      "path": "/art/enemies/enemy_gray_bear.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        18,
+        530,
+        494,
+        911
+      ],
+      "label": "Gray Bear",
+      "sha256": "917851337717908ac71b64be2ad6c3d731756bce41382adc8d9fe61b87a3cdde"
+    },
+    "enemy_floating_demon_eye": {
+      "path": "/art/enemies/enemy_floating_demon_eye.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        911
+      ],
+      "label": "Floating Demon Eye",
+      "sha256": "9656c15db39099ab0519b610c28b810d916f795e0b2bdca501af63761dfcc1fd"
+    },
+    "enemy_undead_chieftain": {
+      "path": "/art/enemies/enemy_undead_chieftain.png",
+      "source": "docs/art/monster-concept-map01-10/map02-graymist-hills.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        911
+      ],
+      "label": "Undead Chieftain",
+      "sha256": "ab0d24211ab9e98c86969bda5211e3144ddb5786231049541bab4371cd702870"
+    },
+    "enemy_mud_crocodile": {
+      "path": "/art/enemies/enemy_mud_crocodile.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        13,
+        18,
+        371,
+        399
+      ],
+      "label": "Mud Crocodile",
+      "sha256": "7e5680f4565e2aed4e74389e2f15c2aa6c580e96004254a35dd73891d86b4c6d"
+    },
+    "enemy_marsh_viper": {
+      "path": "/art/enemies/enemy_marsh_viper.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        397,
+        18,
+        755,
+        399
+      ],
+      "label": "Marsh Viper",
+      "sha256": "780f13be805b5012c5341dea62dd912cf14227e9f86731b4b78e1054cbb943fa"
+    },
+    "enemy_blood_mosquito": {
+      "path": "/art/enemies/enemy_blood_mosquito.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        399
+      ],
+      "label": "Blood Mosquito",
+      "sha256": "43dcef20e694844d77c0aad350bb1b04498db9b5ddd110da58f40c6d53bc9cb1"
+    },
+    "enemy_venom_toad": {
+      "path": "/art/enemies/enemy_venom_toad.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        399
+      ],
+      "label": "Venom Toad",
+      "sha256": "a1a58a682e3eff735a3188bac422e15f4747593df25baf7bf8912ea341254e7d"
+    },
+    "enemy_giant_leech": {
+      "path": "/art/enemies/enemy_giant_leech.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        13,
+        530,
+        371,
+        911
+      ],
+      "label": "Giant Leech",
+      "sha256": "5fdf0b67d976b17e30cdc002700db95b9409c5c959b464e160e3c74e36985284"
+    },
+    "enemy_walking_rotcap": {
+      "path": "/art/enemies/enemy_walking_rotcap.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        397,
+        530,
+        755,
+        911
+      ],
+      "label": "Walking Rotcap",
+      "sha256": "1d1d458913367b90647fde74aca4ee6882ac7eed3db446de366cee517413d039"
+    },
+    "enemy_marsh_broodmother": {
+      "path": "/art/enemies/enemy_marsh_broodmother.png",
+      "source": "docs/art/monster-concept-map01-10/map03-wild-marsh.png",
+      "rect": [
+        845,
+        522,
+        1505,
+        916
+      ],
+      "label": "Marsh Broodmother",
+      "sha256": "ffd501ee37d732a1956b75451f3232a874ad167e22de1d5b2625cb75b3424267"
+    },
+    "enemy_ironshield_skeleton": {
+      "path": "/art/enemies/enemy_ironshield_skeleton.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        13,
+        18,
+        371,
+        399
+      ],
+      "label": "Ironshield Skeleton",
+      "sha256": "151f8e3f2d4cb39682472ffc7f16b856b8927eb6e10575688c6f450f95ddbaa4"
+    },
+    "enemy_skeleton_archer": {
+      "path": "/art/enemies/enemy_skeleton_archer.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        397,
+        18,
+        755,
+        399
+      ],
+      "label": "Skeleton Archer",
+      "sha256": "fb146c432859349f383b81cf1577d88e5e334d5f26d73fcad6ae2de8d059cf3b"
+    },
+    "enemy_lost_wraith": {
+      "path": "/art/enemies/enemy_lost_wraith.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        399
+      ],
+      "label": "Lost Wraith",
+      "sha256": "0af2fd891ff59a0225142342551d215a1c0bba6a1804d5351f98b2e4b588aa31"
+    },
+    "enemy_corpse_ghoul": {
+      "path": "/art/enemies/enemy_corpse_ghoul.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        399
+      ],
+      "label": "Corpse Ghoul",
+      "sha256": "3e319cd668749834768a874f826aaf626a0413aa9c658d7a6807551cd5af265e"
+    },
+    "enemy_grave_bellringer": {
+      "path": "/art/enemies/enemy_grave_bellringer.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        13,
+        530,
+        371,
+        911
+      ],
+      "label": "Grave Bellringer",
+      "sha256": "76a8429a0801ac36093ad668bb85a880b7d32d341b4132e1f4dd75ac1e80845d"
+    },
+    "enemy_grave_knight": {
+      "path": "/art/enemies/enemy_grave_knight.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        397,
+        530,
+        755,
+        911
+      ],
+      "label": "Grave Knight",
+      "sha256": "0fe5486577359096c9f76d72462610520ae2485b5d8116870701bc98bac190c1"
+    },
+    "enemy_iron_tomb_lord": {
+      "path": "/art/enemies/enemy_iron_tomb_lord.png",
+      "source": "docs/art/monster-concept-map01-10/map04-forgotten-cemetery.png",
+      "rect": [
+        845,
+        522,
+        1505,
+        916
+      ],
+      "label": "Iron Tomb Lord",
+      "sha256": "cce6fca082e20836a4fbab73c7e2675559177f74deeee3bd861dea9fbfb49a9f"
+    },
+    "enemy_skeleton_miner": {
+      "path": "/art/enemies/enemy_skeleton_miner.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        13,
+        18,
+        371,
+        399
+      ],
+      "label": "Skeleton Miner",
+      "sha256": "74c278f01cc6a3781ba13dfa71c866548edd17fba83275bcfc7c6e53bac8fe4c"
+    },
+    "enemy_coalwing_bat": {
+      "path": "/art/enemies/enemy_coalwing_bat.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        397,
+        18,
+        755,
+        399
+      ],
+      "label": "Coalwing Bat",
+      "sha256": "86f3f9af5e79a6b7f305300ea4f5485cb127495a22fc440c51db8494bc4c4897"
+    },
+    "enemy_oreweaver_spider": {
+      "path": "/art/enemies/enemy_oreweaver_spider.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        399
+      ],
+      "label": "Oreweaver Spider",
+      "sha256": "f608a9366129272b53efe07c763ba5a765c499dc2e5c07f804bb27915d4d020f"
+    },
+    "enemy_darkiron_golem": {
+      "path": "/art/enemies/enemy_darkiron_golem.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        399
+      ],
+      "label": "Darkiron Golem",
+      "sha256": "2f08a2992b2b3b125ce5429a66091c5cb3302c3947b9976b038dde5eec1d5c74"
+    },
+    "enemy_chained_overseer": {
+      "path": "/art/enemies/enemy_chained_overseer.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        13,
+        530,
+        371,
+        911
+      ],
+      "label": "Chained Overseer",
+      "sha256": "265bcb6ef8d50576c36ebbf2713ed2afb3dfd01e1c314dcb83496079a831f113"
+    },
+    "enemy_tormented_crystal": {
+      "path": "/art/enemies/enemy_tormented_crystal.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        397,
+        530,
+        755,
+        911
+      ],
+      "label": "Tormented Crystal",
+      "sha256": "82c9293c38df5a7c685538d660fc02b96b87b2ca60266703917ceee1ee387bbd"
+    },
+    "enemy_blackore_tyrant": {
+      "path": "/art/enemies/enemy_blackore_tyrant.png",
+      "source": "docs/art/monster-concept-map01-10/map05-lament-mine.png",
+      "rect": [
+        845,
+        522,
+        1505,
+        916
+      ],
+      "label": "Blackore Tyrant",
+      "sha256": "cf78e51acce78f330cbc3639984e5661824c7cf6a1952fd5ac36048d3e2ab005"
+    },
+    "enemy_gallows_revenant": {
+      "path": "/art/enemies/enemy_gallows_revenant.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        18,
+        12,
+        494,
+        266
+      ],
+      "label": "Gallows Revenant",
+      "sha256": "99c46e778aa2a7ef5ba2d67b6ecec1d1efc4738e67e6aeb025fbd9977d56dd46"
+    },
+    "enemy_rustblade_executioner": {
+      "path": "/art/enemies/enemy_rustblade_executioner.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        530,
+        12,
+        1006,
+        266
+      ],
+      "label": "Rustblade Executioner",
+      "sha256": "2ad034b3fe5a4848b101ae5415768f9bb8b51eb9d5ba224e7aee7f6bdf748cc6"
+    },
+    "enemy_corpse_marionette": {
+      "path": "/art/enemies/enemy_corpse_marionette.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        1042,
+        12,
+        1518,
+        266
+      ],
+      "label": "Corpse Marionette",
+      "sha256": "37ede361f4a79bbb91b14ee98d8254c75ed34b8c11cd28b5e3b60cc10d49d557"
+    },
+    "enemy_carrion_crow": {
+      "path": "/art/enemies/enemy_carrion_crow.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        18,
+        353,
+        494,
+        608
+      ],
+      "label": "Carrion Crow",
+      "sha256": "626daa2c2357c4a55b4b0e371b1c3ee1abc8df5f33a01e13609b81b19e4493ea"
+    },
+    "enemy_mourning_witch": {
+      "path": "/art/enemies/enemy_mourning_witch.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        530,
+        353,
+        1006,
+        608
+      ],
+      "label": "Mourning Witch",
+      "sha256": "1a98f085a0503b759aa24d274a8ee6d56f835bb0f0fb726b40a68e046683158f"
+    },
+    "enemy_gallows_warden": {
+      "path": "/art/enemies/enemy_gallows_warden.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        1042,
+        353,
+        1518,
+        608
+      ],
+      "label": "Gallows Warden",
+      "sha256": "8257bc154a92b25ce55a8693ad24c0e4af9ab2c12560b5999af1b41004da4d77"
+    },
+    "enemy_hollow_bellkeeper": {
+      "path": "/art/enemies/enemy_hollow_bellkeeper.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        18,
+        695,
+        494,
+        949
+      ],
+      "label": "Hollow Bellkeeper",
+      "sha256": "63e1d5cebfc685c2a71ca916d59962cebc1325e6b4ac46f1c9afca9c39a5486b"
+    },
+    "enemy_the_gallows_patriarch": {
+      "path": "/art/enemies/enemy_the_gallows_patriarch.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        530,
+        695,
+        1006,
+        949
+      ],
+      "label": "The Gallows Patriarch",
+      "sha256": "d679a123ac4c208ff0f442bbe429b1284ec57db352211a25ef8f97b95edd2d4f"
+    },
+    "enemy_the_unnamed_hanged": {
+      "path": "/art/enemies/enemy_the_unnamed_hanged.png",
+      "source": "docs/art/monster-concept-map01-10/map06-hanging-village.png",
+      "rect": [
+        1042,
+        695,
+        1518,
+        949
+      ],
+      "label": "The Unnamed Hanged",
+      "sha256": "19b6a2fc6ff8679bc811834f1ffb759016c2580b4e7148bdd21628e24af599ab"
+    },
+    "enemy_bloodbound_acolyte": {
+      "path": "/art/enemies/enemy_bloodbound_acolyte.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        13,
+        18,
+        371,
+        399
+      ],
+      "label": "Bloodbound Acolyte",
+      "sha256": "aa46c589d6ba04f3fe162401350a453b2671c45e2698e26bd893721d094bf358"
+    },
+    "enemy_penitent_knight": {
+      "path": "/art/enemies/enemy_penitent_knight.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        397,
+        18,
+        755,
+        399
+      ],
+      "label": "Penitent Knight",
+      "sha256": "6f7a2f1d398365be3f3990d18d98e3bfa01930637236ca156910dffa7772ebd2"
+    },
+    "enemy_chapel_gargoyle": {
+      "path": "/art/enemies/enemy_chapel_gargoyle.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        399
+      ],
+      "label": "Chapel Gargoyle",
+      "sha256": "b8f190894e72e86d42d2f45f06bbc10ab3cfbe6d706f1e3e7a2f0828560955c2"
+    },
+    "enemy_crimson_cantor": {
+      "path": "/art/enemies/enemy_crimson_cantor.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        399
+      ],
+      "label": "Crimson Cantor",
+      "sha256": "2c465e6cd6f01bf12856a77531e6f194d72e7daa0a04dcd26316c84221b460f5"
+    },
+    "enemy_reliquary_keeper": {
+      "path": "/art/enemies/enemy_reliquary_keeper.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        13,
+        530,
+        371,
+        911
+      ],
+      "label": "Reliquary Keeper",
+      "sha256": "7686602eced4adfaab325d82f4cc81d0b878ce6f2ecd6f757349f788230f0833"
+    },
+    "enemy_scourge_sister": {
+      "path": "/art/enemies/enemy_scourge_sister.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        397,
+        530,
+        755,
+        911
+      ],
+      "label": "Scourge Sister",
+      "sha256": "f3ddc66f70596d30e7f557e6b4f94d95000df0f49ec83e8bbe89a52d44c244fb"
+    },
+    "enemy_desecrated_sentinel": {
+      "path": "/art/enemies/enemy_desecrated_sentinel.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        781,
+        530,
+        1139,
+        911
+      ],
+      "label": "Desecrated Sentinel",
+      "sha256": "658f6a56483f4a2368f21ea77bc1c3e1568a65c39a800b8133d97025e2526c8b"
+    },
+    "enemy_the_crimson_abbot": {
+      "path": "/art/enemies/enemy_the_crimson_abbot.png",
+      "source": "docs/art/monster-concept-map01-10/map07-blood-monastery.png",
+      "rect": [
+        1165,
+        530,
+        1523,
+        911
+      ],
+      "label": "The Crimson Abbot",
+      "sha256": "22f1b9a6623ccaead435da2267d12ee1f2b6e002c8b9f56722f0e7a2737d960d"
+    },
+    "enemy_citadel_halberdier": {
+      "path": "/art/enemies/enemy_citadel_halberdier.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        11,
+        18,
+        296,
+        399
+      ],
+      "label": "Citadel Halberdier",
+      "sha256": "30c878c2db4cc8e86a06b04b85a28dd3f27bb7789a8838cb086a7465fdba7ada"
+    },
+    "enemy_razorwire_trapper": {
+      "path": "/art/enemies/enemy_razorwire_trapper.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        318,
+        18,
+        604,
+        399
+      ],
+      "label": "Razorwire Trapper",
+      "sha256": "05b6b6b175db44d9b03bfa30689733c88b70494d5a6b18d696ed13df2bde47b0"
+    },
+    "enemy_bloodglass_archer": {
+      "path": "/art/enemies/enemy_bloodglass_archer.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        625,
+        18,
+        911,
+        399
+      ],
+      "label": "Bloodglass Archer",
+      "sha256": "4e6bcee09c7c98ae8e529ef1799943a873c5a19ffc3d85f505a230368f5e0a53"
+    },
+    "enemy_venomless_leech": {
+      "path": "/art/enemies/enemy_venomless_leech.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        932,
+        18,
+        1218,
+        399
+      ],
+      "label": "Venomless Leech",
+      "sha256": "c213d834ff06929641fe60dda9fb17b00e1d5a9c4df5370a5977ae1790f4f419"
+    },
+    "enemy_ironbound_gargoyle": {
+      "path": "/art/enemies/enemy_ironbound_gargoyle.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        1240,
+        18,
+        1525,
+        399
+      ],
+      "label": "Ironbound Gargoyle",
+      "sha256": "e5b0698d3b3a4b69da162836e16cfad9931f78262fc6012d96ec8761a5768efe"
+    },
+    "enemy_hexfire_magister": {
+      "path": "/art/enemies/enemy_hexfire_magister.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        11,
+        530,
+        296,
+        911
+      ],
+      "label": "Hexfire Magister",
+      "sha256": "25829e03cd0193a325b07ff9c8c503cb303fb7f8528c967da7ff7f4f5b49728f"
+    },
+    "enemy_oathbreaker_knight": {
+      "path": "/art/enemies/enemy_oathbreaker_knight.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        318,
+        530,
+        604,
+        911
+      ],
+      "label": "Oathbreaker Knight",
+      "sha256": "b8af4097ae7b91271e5cc4396587f0ba2137258c3e3f9a556b4ed22135c8f0bc"
+    },
+    "enemy_cursed_reliquary": {
+      "path": "/art/enemies/enemy_cursed_reliquary.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        625,
+        530,
+        911,
+        911
+      ],
+      "label": "Cursed Reliquary",
+      "sha256": "11868ea20b70e7fc10a06bfbf9b1ca87a9e0e55cb347b28f7406729d901660b3"
+    },
+    "enemy_the_flayed_castellan": {
+      "path": "/art/enemies/enemy_the_flayed_castellan.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        932,
+        530,
+        1218,
+        911
+      ],
+      "label": "The Flayed Castellan",
+      "sha256": "fa8583eadb0f929b9a0b78558be9830b004a05584622cbfad4c303eef8e8e8cb"
+    },
+    "enemy_the_mithril_usurper": {
+      "path": "/art/enemies/enemy_the_mithril_usurper.png",
+      "source": "docs/art/monster-concept-map01-10/map08-cursed-citadel.png",
+      "rect": [
+        1240,
+        530,
+        1525,
+        911
+      ],
+      "label": "The Mithril Usurper",
+      "sha256": "89ee94b13087c5d730b80df72bfa544fe3561cf8041f43100151a701c6fd4f63"
+    },
+    "enemy_bone_reaver": {
+      "path": "/art/enemies/enemy_bone_reaver.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        18,
+        12,
+        494,
+        266
+      ],
+      "label": "Bone Reaver",
+      "sha256": "2cae62b2bcfa4d20b7c1efb5b1a4c83dd2cd723ae4dc99a79aa032ff308579a7"
+    },
+    "enemy_marrow_archer": {
+      "path": "/art/enemies/enemy_marrow_archer.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        530,
+        12,
+        1006,
+        266
+      ],
+      "label": "Marrow Archer",
+      "sha256": "19447291adf266141d53dfec789b22ab606d0fbbbe8bc232fcff7dcc28431aef"
+    },
+    "enemy_ossuary_wraith": {
+      "path": "/art/enemies/enemy_ossuary_wraith.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        1042,
+        12,
+        1518,
+        266
+      ],
+      "label": "Ossuary Wraith",
+      "sha256": "efeaa41aee077ba73ea3e7b1108a50cbe492213ed1751162ff68e21aa3533e93"
+    },
+    "enemy_carcass_behemoth": {
+      "path": "/art/enemies/enemy_carcass_behemoth.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        18,
+        353,
+        494,
+        608
+      ],
+      "label": "Carcass Behemoth",
+      "sha256": "8d54f716046c1273365dca4c02067bccd9abab290f499376d5de8361b9481c0f"
+    },
+    "enemy_skull_hexer": {
+      "path": "/art/enemies/enemy_skull_hexer.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        530,
+        353,
+        1006,
+        608
+      ],
+      "label": "Skull Hexer",
+      "sha256": "970531c63f1995de54ce9493606a05e17287a5064e02c73201bbac986548a820"
+    },
+    "enemy_spine_stalker": {
+      "path": "/art/enemies/enemy_spine_stalker.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        1042,
+        353,
+        1518,
+        608
+      ],
+      "label": "Spine Stalker",
+      "sha256": "bf8e605a92719c673bd672783af8a35b957ee324b45b21e77d4d04ab8763e9ef"
+    },
+    "enemy_pale_bone_mender": {
+      "path": "/art/enemies/enemy_pale_bone_mender.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        18,
+        695,
+        494,
+        949
+      ],
+      "label": "Pale Bone Mender",
+      "sha256": "d0917f22941efd6b2aa67f4d7d8cd68e94293deca796e6ebf82d3139a12b8cec"
+    },
+    "enemy_adamant_boneguard": {
+      "path": "/art/enemies/enemy_adamant_boneguard.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        530,
+        695,
+        1006,
+        949
+      ],
+      "label": "Adamant Boneguard",
+      "sha256": "bfe3a12cd78b5faf693721941ae14efccab281bfe6987108330b7f6fd1605671"
+    },
+    "enemy_the_ossuary_sovereign": {
+      "path": "/art/enemies/enemy_the_ossuary_sovereign.png",
+      "source": "docs/art/monster-concept-map01-10/map09-bone-valley.png",
+      "rect": [
+        1042,
+        695,
+        1518,
+        949
+      ],
+      "label": "The Ossuary Sovereign",
+      "sha256": "85dd4db672205ada84bcaf549d07195e3295af6f015f9bead6098f2c3efaa142"
+    },
+    "enemy_abyssal_legionnaire": {
+      "path": "/art/enemies/enemy_abyssal_legionnaire.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        12,
+        16,
+        342,
+        346
+      ],
+      "label": "Abyssal Legionnaire",
+      "sha256": "9c5b3bec2e35dd5cd7e2c421c501ba01aa023710a4b1969948100ea36cd4cd02"
+    },
+    "enemy_cinder_maw": {
+      "path": "/art/enemies/enemy_cinder_maw.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        367,
+        16,
+        697,
+        346
+      ],
+      "label": "Cinder Maw",
+      "sha256": "725ced0c0ff5b1f9087fc783523ff9041b4c84d0d79f867b5e768a7dff8c01c6"
+    },
+    "enemy_venom_apostle": {
+      "path": "/art/enemies/enemy_venom_apostle.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        722,
+        16,
+        1052,
+        346
+      ],
+      "label": "Venom Apostle",
+      "sha256": "c0fc2c6faadf6d6f3119b5382269fe143588cbc0ee2220f5454fa5cf62dc62c9"
+    },
+    "enemy_rift_broodmother": {
+      "path": "/art/enemies/enemy_rift_broodmother.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        1077,
+        16,
+        1407,
+        346
+      ],
+      "label": "Rift Broodmother",
+      "sha256": "3abf8ae0fdf9c6ac4382181305fe76c385693b6d561d93df1b4b0575519079db"
+    },
+    "enemy_mirror_wraith": {
+      "path": "/art/enemies/enemy_mirror_wraith.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        1432,
+        16,
+        1762,
+        346
+      ],
+      "label": "Mirror Wraith",
+      "sha256": "a1d0b9aa977794de828c1f78e79b07f612fceac3ffea89086281ea1eac1fa046"
+    },
+    "enemy_orichalcum_bulwark": {
+      "path": "/art/enemies/enemy_orichalcum_bulwark.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        12,
+        459,
+        342,
+        789
+      ],
+      "label": "Orichalcum Bulwark",
+      "sha256": "5b0fb5430c11b25da46a21f0065b65f59eb8893a95f4ea8345e214b0422f1319"
+    },
+    "enemy_null_chantor": {
+      "path": "/art/enemies/enemy_null_chantor.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        367,
+        459,
+        697,
+        789
+      ],
+      "label": "Null Chantor",
+      "sha256": "ee40be13f87d7fb64223c07892c30caf6bd4eef33fddfaf2c2474d1e0489c43f"
+    },
+    "enemy_eclipse_ravager": {
+      "path": "/art/enemies/enemy_eclipse_ravager.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        722,
+        459,
+        1052,
+        789
+      ],
+      "label": "Eclipse Ravager",
+      "sha256": "0c20ce9fd33a607717a1c42c6ce9f808c2633882391a920c5d29b65ae61fcdcb"
+    },
+    "enemy_void_relic_keeper": {
+      "path": "/art/enemies/enemy_void_relic_keeper.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        1077,
+        459,
+        1407,
+        789
+      ],
+      "label": "Void Relic Keeper",
+      "sha256": "7084587869c21061cfa133a3cd2297b3a951e50dbc73e31b43f6ab33590ac93a"
+    },
+    "enemy_the_abyssal_regent": {
+      "path": "/art/enemies/enemy_the_abyssal_regent.png",
+      "source": "docs/art/monster-concept-map01-10/map10-soul-devouring-abyss.png",
+      "rect": [
+        1432,
+        459,
+        1762,
+        789
+      ],
+      "label": "The Abyssal Regent",
+      "sha256": "39a63d7ba09494ebedb9e4f8e5ac0ead87fd7651cd84b410133b202a370094f4"
+    }
+  },
+  "items": {
+    "eq_marshwarden_steel_sword": {
+      "path": "/art/items/eq_marshwarden_steel_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Marshwarden Steel Sword",
+      "sha256": "0d94aea52e0b1e4544b854603902f07fcace0dc9c610427d8f90279993de8b37"
+    },
+    "eq_marshspirit_steel_staff": {
+      "path": "/art/items/eq_marshspirit_steel_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Marshspirit Steel Staff",
+      "sha256": "f2d151095532b83f735fe5354f1f3c343934d31e178adac67d9dc1c3761297c0"
+    },
+    "eq_marshveil_steel_twin_blades": {
+      "path": "/art/items/eq_marshveil_steel_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Marshveil Steel Twin Blades",
+      "sha256": "ebc8c094716ce08ba58ba1e834ba4e1af9955ed4c77c20330b1c1f84fce19bd8"
+    },
+    "eq_marshveil_steel_bow": {
+      "path": "/art/items/eq_marshveil_steel_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Marshveil Steel Bow",
+      "sha256": "d445340702df7a4224289e0012df6dd4f4dffb10436c499f4bb2bc82b53815fa"
+    },
+    "eq_marshwarden_steel_helm": {
+      "path": "/art/items/eq_marshwarden_steel_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Marshwarden Steel Helm",
+      "sha256": "9b971e997cf827a1479ba734e802cb68bd0589ac7e3809ac85ffff42caf025c1"
+    },
+    "eq_steel_venomward_necklace": {
+      "path": "/art/items/eq_steel_venomward_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Steel Venomward Necklace",
+      "sha256": "0ab6d4a4a21a9dfa65788d372cfc1885c6da25ed3667903959bff2f6ccbdd0ac"
+    },
+    "eq_tombwarden_silver_sword": {
+      "path": "/art/items/eq_tombwarden_silver_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Tombwarden Silver Sword",
+      "sha256": "100a3513b0d8e661f96863352f04a9635e30c2327c2d2a39c541b38f028cf3ae"
+    },
+    "eq_gravespirit_silver_staff": {
+      "path": "/art/items/eq_gravespirit_silver_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Gravespirit Silver Staff",
+      "sha256": "ef6e79bc3b94d4a46add34243c70b71135c2429d8bb2f4b3f20c0e0c54b8c8d4"
+    },
+    "eq_graveveil_silver_twin_blades": {
+      "path": "/art/items/eq_graveveil_silver_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Graveveil Silver Twin Blades",
+      "sha256": "2475f4c80589daba52bef4e764c1f9e3b0331cb28614dbbe255b1d01767a2c72"
+    },
+    "eq_graveveil_silver_bow": {
+      "path": "/art/items/eq_graveveil_silver_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Graveveil Silver Bow",
+      "sha256": "107496803ff891cce012ebd7f00c70e32a9f2cd7147e98790c1537096f2b5997"
+    },
+    "eq_tombwarden_silver_helm": {
+      "path": "/art/items/eq_tombwarden_silver_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Tombwarden Silver Helm",
+      "sha256": "620496806d1572918e83399070032b4f5b19d76256c0d266955dc71bb9af2636"
+    },
+    "eq_silver_lifeflame_necklace": {
+      "path": "/art/items/eq_silver_lifeflame_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Silver Lifeflame Necklace",
+      "sha256": "41a00a0b8bc5c863ab1337cb2077e292a064b2e5e77a7ac460643c562860040a"
+    },
+    "eq_orewarden_gold_sword": {
+      "path": "/art/items/eq_orewarden_gold_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Orewarden Gold Sword",
+      "sha256": "7025282565265f08a34d48afca900dd0e176bb1ee561b3479c74286d122d6875"
+    },
+    "eq_tormented_gold_staff": {
+      "path": "/art/items/eq_tormented_gold_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Tormented Gold Staff",
+      "sha256": "7c81ce63091756e630725bb6f6a585cea7319ec786da19dfe1220ccfbcdb0b6d"
+    },
+    "eq_mineshadow_gold_twin_blades": {
+      "path": "/art/items/eq_mineshadow_gold_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Mineshadow Gold Twin Blades",
+      "sha256": "6965dd7716b057d07c2ace7f446c1bdf2eb223b152d80f9436eb2a8b2d1b65bb"
+    },
+    "eq_mineshadow_gold_bow": {
+      "path": "/art/items/eq_mineshadow_gold_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Mineshadow Gold Bow",
+      "sha256": "4ccbe4c2608080444adb88b352cb8a1fb5976b4fceb3ef9081d6f034600caf6f"
+    },
+    "eq_orewarden_gold_helm": {
+      "path": "/art/items/eq_orewarden_gold_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Orewarden Gold Helm",
+      "sha256": "b7e9437a6b83aec929c7f1c4e93b62a30d7919f0dd12a68dabe6c4af48a6823d"
+    },
+    "eq_gold_corebreaker_ring": {
+      "path": "/art/items/eq_gold_corebreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Gold Corebreaker Ring",
+      "sha256": "4b5a5e18ac5131af253442980200218dbcaeb885bd8ca67f918aff4b7edac428"
+    },
+    "eq_gallowsguard_platinum_sword": {
+      "path": "/art/items/eq_gallowsguard_platinum_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Gallowsguard Platinum Sword",
+      "sha256": "7506f7ec94c8800472d040e5e749a8eba84bf684dfc3582977c88784caf8d38e"
+    },
+    "eq_hexbound_platinum_staff": {
+      "path": "/art/items/eq_hexbound_platinum_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Hexbound Platinum Staff",
+      "sha256": "4b4bff04fe550d3823617be74bb8dafe422b4826630211f6d8bda0be227f00b0"
+    },
+    "eq_ravenveil_platinum_twin_blades": {
+      "path": "/art/items/eq_ravenveil_platinum_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Ravenveil Platinum Twin Blades",
+      "sha256": "eadfed809d71a0e472c0c9486c69c5feb8a9e61057be43c52bf0a764db811821"
+    },
+    "eq_ravenveil_platinum_bow": {
+      "path": "/art/items/eq_ravenveil_platinum_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Ravenveil Platinum Bow",
+      "sha256": "51d0294ccb518755da61760fa55174c8a5e0e09d5292d1df2ff160072f5dd4a9"
+    },
+    "eq_gallowsguard_platinum_helm": {
+      "path": "/art/items/eq_gallowsguard_platinum_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Gallowsguard Platinum Helm",
+      "sha256": "b4561b28e2edf8cb1438bb257d9e6ef3c2b3c29b522fec25f6b8e67593246f99"
+    },
+    "eq_platinum_gallowsbreaker_ring": {
+      "path": "/art/items/eq_platinum_gallowsbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Platinum Gallowsbreaker Ring",
+      "sha256": "b6039329277e1f26f380b2eac8117e0a277e2b602b90563953712a911380bea2"
+    },
+    "eq_oathguard_titanium_sword": {
+      "path": "/art/items/eq_oathguard_titanium_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Oathguard Titanium Sword",
+      "sha256": "5ccce7188c73b135ac1cd9119c956003605ed550294fe30ba701156074185435"
+    },
+    "eq_bloodrite_titanium_staff": {
+      "path": "/art/items/eq_bloodrite_titanium_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Bloodrite Titanium Staff",
+      "sha256": "1675460958ff78b64762f1e3390f29e2ea6b64f461cdd7a201f969ed9c74db54"
+    },
+    "eq_chapelshade_titanium_twin_blades": {
+      "path": "/art/items/eq_chapelshade_titanium_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Chapelshade Titanium Twin Blades",
+      "sha256": "9c8490f62dbae45cb48a6dfaa4b810c18988e62b9f66043b102c4ce132394c6b"
+    },
+    "eq_chapelshade_titanium_bow": {
+      "path": "/art/items/eq_chapelshade_titanium_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Chapelshade Titanium Bow",
+      "sha256": "c13a66d7f8fd5a0ffdab72be324bd760df54875127e554bc92cec5ad8fae98b6"
+    },
+    "eq_oathguard_titanium_helm": {
+      "path": "/art/items/eq_oathguard_titanium_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Oathguard Titanium Helm",
+      "sha256": "5071af29a661ee47902c02f46594a78c41d1f94b2b27525273148ec14a0fde4c"
+    },
+    "eq_titanium_dawnseal_ring": {
+      "path": "/art/items/eq_titanium_dawnseal_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Titanium Dawnseal Ring",
+      "sha256": "cc13c721877557eb82e8e9d33af7830ec09effd30794e432c3bd3a4e201accc2"
+    },
+    "eq_citadelguard_mithril_sword": {
+      "path": "/art/items/eq_citadelguard_mithril_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Citadelguard Mithril Sword",
+      "sha256": "f5ee846a432522f723b5a779bc65ba8cd4c42440245a302f7b648eb8e31467f0"
+    },
+    "eq_hexward_mithril_staff": {
+      "path": "/art/items/eq_hexward_mithril_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Hexward Mithril Staff",
+      "sha256": "7e68d52e42315d77fa370a1172b93aaa07b162e43efd086a1f9a67ab35970ed7"
+    },
+    "eq_razorveil_mithril_twin_blades": {
+      "path": "/art/items/eq_razorveil_mithril_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Razorveil Mithril Twin Blades",
+      "sha256": "f428916aace3d663370b2f572114f80746fc8bcdc4d9ddd625a6e5da9d7037cf"
+    },
+    "eq_razorveil_mithril_bow": {
+      "path": "/art/items/eq_razorveil_mithril_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Razorveil Mithril Bow",
+      "sha256": "c2e8c03caf71ab0d8627acdc34df9aa1526867972a9c1dc3a041b2c339fa5bf9"
+    },
+    "eq_citadelguard_mithril_helm": {
+      "path": "/art/items/eq_citadelguard_mithril_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Citadelguard Mithril Helm",
+      "sha256": "596fb55f61f84d70626de3c4d91749adb12d3a852076f49bf1d24338c2fbd3a7"
+    },
+    "eq_mithril_relicbreaker_ring": {
+      "path": "/art/items/eq_mithril_relicbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Mithril Relicbreaker Ring",
+      "sha256": "ec8634b8cbe10e8bfd4e5a2974dd588f2af3aba88a3f9b2b644bd80c53c93fc9"
+    },
+    "eq_bonewarden_adamant_sword": {
+      "path": "/art/items/eq_bonewarden_adamant_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Bone warden Adamant Sword",
+      "sha256": "5a2326c3b73f9fe9a606ec9127c4cd2f16df8839e3a12f5c0a47ab189e58666c"
+    },
+    "eq_ossuary_adamant_staff": {
+      "path": "/art/items/eq_ossuary_adamant_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Ossuary Adamant Staff",
+      "sha256": "a4864f001970ea409225aee0b918784b64bb0a8a210ca90ada60163200c81aaf"
+    },
+    "eq_spineveil_adamant_twin_blades": {
+      "path": "/art/items/eq_spineveil_adamant_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Spineveil Adamant Twin Blades",
+      "sha256": "64a3431bfd82054c93f6ae9676d81c55cadc969e7dc385ce9439b1b7ecb17049"
+    },
+    "eq_spineveil_adamant_bow": {
+      "path": "/art/items/eq_spineveil_adamant_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Spineveil Adamant Bow",
+      "sha256": "8294f34131493faef9659ef50db554d78e9a802b5edc00560951d31160f05bde"
+    },
+    "eq_bonewarden_adamant_helm": {
+      "path": "/art/items/eq_bonewarden_adamant_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Bone warden Adamant Helm",
+      "sha256": "4d3250d78de5ac9ca04865ea6165378dc730c1b83d754ea604e15a16d42ef68e"
+    },
+    "eq_adamant_ossuary_ring": {
+      "path": "/art/items/eq_adamant_ossuary_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Adamant Ossuary Ring",
+      "sha256": "8dadfb7a3a8d9fe5e260ef3102996431c7e7d7b2b6a8c3f38c9a394a8131809c"
+    },
+    "eq_abyssguard_greatsword": {
+      "path": "/art/items/eq_abyssguard_greatsword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Abyssguard Greatsword",
+      "sha256": "b75d1c7face2177d7948447c81e40852d9551cdcf3d2bd6e39b3e52a4f3bf710"
+    },
+    "eq_voidrite_staff": {
+      "path": "/art/items/eq_voidrite_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Voidrite Staff",
+      "sha256": "7684843b16ee9fb112d5dcb0d8db6db03abb59b8a705e7222b4e0bb07d416f04"
+    },
+    "eq_riftveil_daggers": {
+      "path": "/art/items/eq_riftveil_daggers.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Riftveil Daggers",
+      "sha256": "b444542b85740547e5f4f1131c97d60639896eb310c60b6e1c67765117b3f470"
+    },
+    "eq_riftveil_longbow": {
+      "path": "/art/items/eq_riftveil_longbow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Riftveil Longbow",
+      "sha256": "33a72458099a158669b341f873b59ea6c90eac1fd704edafaf281bee63d7656c"
+    },
+    "eq_abyssguard_helm": {
+      "path": "/art/items/eq_abyssguard_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Abyssguard Helm",
+      "sha256": "b3f9555e2c2be82a1a1014ed4eaf6c849a5eb9d292a59b813c8e2cb10864e959"
+    },
+    "eq_abyssward_pendant": {
+      "path": "/art/items/eq_abyssward_pendant.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-concept.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Abyssward Pendant",
+      "sha256": "c7419fbcefb03b941e77fa6827f8540d026870cf6a7a2546cd3566f2b39fe407"
+    },
+    "eq_marshspirit_steel_boots": {
+      "path": "/art/items/eq_marshspirit_steel_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Marshspirit Steel Boots",
+      "sha256": "55f4a83077ecbe6017b01d4d1959c1beed6e99402b18ad8519c5b6acfb921562"
+    },
+    "eq_marshspirit_steel_gloves": {
+      "path": "/art/items/eq_marshspirit_steel_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Marshspirit Steel Gloves",
+      "sha256": "f39653ad5b19a5bfe9d038424cf2458df179b9209db3e39c23a8a2c2a2cebcf0"
+    },
+    "eq_marshspirit_steel_hood": {
+      "path": "/art/items/eq_marshspirit_steel_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Marshspirit Steel Hood",
+      "sha256": "e9db37b6c67d8436be88f360b936c8c9716c06662ec30445435c824621a361bd"
+    },
+    "eq_marshveil_steel_boots": {
+      "path": "/art/items/eq_marshveil_steel_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Marshveil Steel Boots",
+      "sha256": "c97ec54150e7a34791804d0e866b1f0f65d46b3471cc32c6376ae5d3e5316e1c"
+    },
+    "eq_marshveil_steel_gloves": {
+      "path": "/art/items/eq_marshveil_steel_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Marshveil Steel Gloves",
+      "sha256": "45f697e74ac1a2a62bc5dedc0fdd0a9dc707561633132fd11b4978de8a83eafd"
+    },
+    "eq_marshveil_steel_hood": {
+      "path": "/art/items/eq_marshveil_steel_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-armor-completion-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Marshveil Steel Hood",
+      "sha256": "c70999a1858f147ad43ce2967b2fb565d217fb1181bf8de31f59a672a8169b60"
+    },
+    "eq_marshwarden_steel_gauntlets": {
+      "path": "/art/items/eq_marshwarden_steel_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Marshwarden Steel Gauntlets",
+      "sha256": "df9ead1d2d63e4cc2931158d7d83292d65b4a69d44e9582d92bed180f2cb7245"
+    },
+    "eq_marshwarden_steel_greaves": {
+      "path": "/art/items/eq_marshwarden_steel_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Marshwarden Steel Greaves",
+      "sha256": "f763ac5cb4e7d5336e450bf6b5bb18e0a16fdee7dcb51534322ff090b405bb10"
+    },
+    "eq_steel_marshguard_necklace": {
+      "path": "/art/items/eq_steel_marshguard_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Steel Marshguard Necklace",
+      "sha256": "3d82a89505187f75e2ce74f25f2441884b692e02c0ef91a07bb61f60c49d5edd"
+    },
+    "eq_steel_marshlight_ring": {
+      "path": "/art/items/eq_steel_marshlight_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Steel Marshlight Ring",
+      "sha256": "d76d5c0f3cadb7596b4be9a04e315f0c5fc605ad956397d1635d87726c9b31fe"
+    },
+    "eq_steel_tracker_ring": {
+      "path": "/art/items/eq_steel_tracker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Steel Tracker Ring",
+      "sha256": "1cd251672e550e4fb4bc6aa1f4b483a057a283d231bcc58758f314f9ec01061a"
+    },
+    "eq_steel_pact_ring": {
+      "path": "/art/items/eq_steel_pact_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map03-accessories-completion-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Steel Pact Ring",
+      "sha256": "ca58465893207f6d4c1412a8a4b638bab7a68246a0700566d8617c502a139d7b"
+    },
+    "eq_iron_graymist_fang_ring": {
+      "path": "/art/items/eq_iron_graymist_fang_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Iron Graymist Fang Ring",
+      "sha256": "cd4a1cc109bdaca5f58faf76dc5811cb74d7a05e017c87096b4151ba41bd84a5"
+    },
+    "eq_iron_mist_eye_ring": {
+      "path": "/art/items/eq_iron_mist_eye_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Iron Mist Eye Ring",
+      "sha256": "0126eea9b4875e7d87743e7d830e47823e2366ad7d959642d26f11b6978145ad"
+    },
+    "eq_iron_mistbear_necklace": {
+      "path": "/art/items/eq_iron_mistbear_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Iron Mistbear Necklace",
+      "sha256": "b446bb9a4eca701786c02b3f5b7ff503310cfc254387218ee3c597bd085ad917"
+    },
+    "eq_iron_mistward_claw_necklace": {
+      "path": "/art/items/eq_iron_mistward_claw_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Iron Mistward Claw Necklace",
+      "sha256": "f448f5cde899bf8474bfb441b75e3fd2317d7fe6c550a3050334af533f9c7a40"
+    },
+    "eq_mistbreaker_iron_gauntlets": {
+      "path": "/art/items/eq_mistbreaker_iron_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Mistbreaker Iron Gauntlets",
+      "sha256": "b98482eec24fd16c001be8200584bf22dbdab84062d658c95b44199a9c899efe"
+    },
+    "eq_mistbreaker_iron_greaves": {
+      "path": "/art/items/eq_mistbreaker_iron_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Mistbreaker Iron Greaves",
+      "sha256": "ceeaec1d492c40eb05486a5924c80500321176e4cfe00192fbb3b081a5879dde"
+    },
+    "eq_mistbreaker_iron_helm": {
+      "path": "/art/items/eq_mistbreaker_iron_helm.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Mistbreaker Iron Helm",
+      "sha256": "226362e94055992982f52a6f54ed0b95ba07caa173c81c6c85fe8256d61bdacb"
+    },
+    "eq_mistbreaker_iron_sword": {
+      "path": "/art/items/eq_mistbreaker_iron_sword.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Mistbreaker Iron Sword",
+      "sha256": "ada2202fb57f28fa3866e14aaeca1b3dddd1521a8cc50d40a7269ffe453d0b56"
+    },
+    "eq_mistspirit_iron_boots": {
+      "path": "/art/items/eq_mistspirit_iron_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Mistspirit Iron Boots",
+      "sha256": "4547891c0585505b61f5718950284cb3e7e1d092fe55ce4c35db1e534c6e8ec3"
+    },
+    "eq_mistspirit_iron_gloves": {
+      "path": "/art/items/eq_mistspirit_iron_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Mistspirit Iron Gloves",
+      "sha256": "f9a9f1e20471d4bed61627d0525a51479af016ea3c6021d9690baff745e03c8f"
+    },
+    "eq_mistspirit_iron_hood": {
+      "path": "/art/items/eq_mistspirit_iron_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Mistspirit Iron Hood",
+      "sha256": "811ec4dc69188701294dbc26c7af07faf361a0ba29d26a7b2dc5126d06f9b199"
+    },
+    "eq_mistspirit_iron_staff": {
+      "path": "/art/items/eq_mistspirit_iron_staff.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part02-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Mistspirit Iron Staff",
+      "sha256": "475b5b45e84d7931f6cf12229bcea24ec63d734c4fd19321fce6cb51811413f1"
+    },
+    "eq_mistveil_iron_boots": {
+      "path": "/art/items/eq_mistveil_iron_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part03-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Mistveil Iron Boots",
+      "sha256": "b940c6207f61d05c6a388a5d5f7a2324baabafd5a575474c219b7a51cf8988ce"
+    },
+    "eq_mistveil_iron_bow": {
+      "path": "/art/items/eq_mistveil_iron_bow.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part03-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Mistveil Iron Bow",
+      "sha256": "4e42495ef38a28507ce8d81798b8b80bda929f04340f7628b2f3dfc31c7952ae"
+    },
+    "eq_mistveil_iron_gloves": {
+      "path": "/art/items/eq_mistveil_iron_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part03-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Mistveil Iron Gloves",
+      "sha256": "d7c783c742575ffd5536e2d97e04dac5ce55aa0d9a5febf647bf929357783b0d"
+    },
+    "eq_mistveil_iron_hood": {
+      "path": "/art/items/eq_mistveil_iron_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part03-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Mistveil Iron Hood",
+      "sha256": "ecdfdd65bb3228759f2b5e3d3bc59ffd366aa9b938c559d0195d0eb3c1d40c97"
+    },
+    "eq_mistveil_iron_twin_blades": {
+      "path": "/art/items/eq_mistveil_iron_twin_blades.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map02-completion-part03-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Mistveil Iron Twin Blades",
+      "sha256": "c1e88435834348d4ac094bba8c171eb8085224adfc871e071dfb167c1a6b42b5"
+    },
+    "eq_gravespirit_silver_boots": {
+      "path": "/art/items/eq_gravespirit_silver_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Gravespirit Silver Boots",
+      "sha256": "8f1491686a48d7803240461ed3658c4ac4832f7fbc551f18f59cc12988f0ccae"
+    },
+    "eq_gravespirit_silver_gloves": {
+      "path": "/art/items/eq_gravespirit_silver_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Gravespirit Silver Gloves",
+      "sha256": "7679cda755decae37bbf09fdbfe9ad8aa06b3e2ab21040c8e4c8a2128e8634c3"
+    },
+    "eq_gravespirit_silver_hood": {
+      "path": "/art/items/eq_gravespirit_silver_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Gravespirit Silver Hood",
+      "sha256": "eccac6fa5aa58b362c4d86f7b89ce298a79bd219fb89e46b3fc6f5cd81c28ca9"
+    },
+    "eq_graveveil_silver_boots": {
+      "path": "/art/items/eq_graveveil_silver_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Graveveil Silver Boots",
+      "sha256": "aafc0c78730e045c6294155f982845b37fc262beb01ed3812501f05c00c7fb8a"
+    },
+    "eq_graveveil_silver_gloves": {
+      "path": "/art/items/eq_graveveil_silver_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Graveveil Silver Gloves",
+      "sha256": "889791d90e00b3b0a54d249f3d60b25366f0c54179847e0106df08d1f3c51a92"
+    },
+    "eq_graveveil_silver_hood": {
+      "path": "/art/items/eq_graveveil_silver_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Graveveil Silver Hood",
+      "sha256": "249b6a9ece29047b42878d08c3946b00891fdfc5f39d68e51d5bd48d5f7bd51d"
+    },
+    "eq_silver_shieldbreaker_ring": {
+      "path": "/art/items/eq_silver_shieldbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Silver Shieldbreaker Ring",
+      "sha256": "7f27a3cd5b3a13de73c4a9e412c2794f773d8b993411c30889130457300eae64"
+    },
+    "eq_silver_tombguard_necklace": {
+      "path": "/art/items/eq_silver_tombguard_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Silver Tombguard Necklace",
+      "sha256": "64f81d2b869803bfe4e095e80a1296883d88a7aee4c3ee72c82e1d1f4f6d5220"
+    },
+    "eq_silver_wardbreaker_ring": {
+      "path": "/art/items/eq_silver_wardbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Silver Wardbreaker Ring",
+      "sha256": "06fd9d32bc55ffb51ba99c3a733b5fe8c79f9f9bd852ddd772808275391c4b59"
+    },
+    "eq_tombwarden_silver_gauntlets": {
+      "path": "/art/items/eq_tombwarden_silver_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Tombwarden Silver Gauntlets",
+      "sha256": "d06bf2727bf336844263daf65465aa5890f56026dcef5782cd6be31ac41b3fbb"
+    },
+    "eq_tombwarden_silver_greaves": {
+      "path": "/art/items/eq_tombwarden_silver_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map04-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Tombwarden Silver Greaves",
+      "sha256": "63c68a7b01d4b532707df1aaf1873df04d5e4bebdb7a5f84b58c471845f63f62"
+    },
+    "eq_gold_crystalbreaker_ring": {
+      "path": "/art/items/eq_gold_crystalbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Gold Crystalbreaker Ring",
+      "sha256": "cd1a662fa4fab496c3695c3a7dd1ecd4e90334f2bb1594508c92b4b946a1bd77"
+    },
+    "eq_gold_dawncharm_talisman": {
+      "path": "/art/items/eq_gold_dawncharm_talisman.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Gold Dawncharm Talisman",
+      "sha256": "d450ab8a9caa5f0d665336805208ca2f8ba9db1163356da89f6f8956d582c32e"
+    },
+    "eq_gold_deepguard_necklace": {
+      "path": "/art/items/eq_gold_deepguard_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Gold Deepguard Necklace",
+      "sha256": "887afc4c5b90a322737957db458a75d19f42da32d92982ff44f1fb7084f40761"
+    },
+    "eq_gold_spiritguard_necklace": {
+      "path": "/art/items/eq_gold_spiritguard_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Gold Spiritguard Necklace",
+      "sha256": "c6214d626255ca0372553d26f3b1dda894d762b946a3026eaf16453182fa6393"
+    },
+    "eq_mineshadow_gold_boots": {
+      "path": "/art/items/eq_mineshadow_gold_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Mineshadow Gold Boots",
+      "sha256": "cffedfa77af5cf0b8c7d6d708bb7aabadf8a6dd19469efc3958d5369efd4a904"
+    },
+    "eq_mineshadow_gold_gloves": {
+      "path": "/art/items/eq_mineshadow_gold_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Mineshadow Gold Gloves",
+      "sha256": "fd81293158e86d1eb79e88d48ac1271ffb34a21c9fadba2c135f09ad02f22639"
+    },
+    "eq_mineshadow_gold_hood": {
+      "path": "/art/items/eq_mineshadow_gold_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Mineshadow Gold Hood",
+      "sha256": "7db26638f83d8d41e1a740e195bd49ad61c4a1d96443c5c7955ee4c5541ff1fa"
+    },
+    "eq_orewarden_gold_gauntlets": {
+      "path": "/art/items/eq_orewarden_gold_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Orewarden Gold Gauntlets",
+      "sha256": "f3acd46817cc286a05b0be11fd01e04d56108a38181fb2335a443832b3973f54"
+    },
+    "eq_orewarden_gold_greaves": {
+      "path": "/art/items/eq_orewarden_gold_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Orewarden Gold Greaves",
+      "sha256": "846df1a601fca45b1963e74fbdcb3dad5de23b3b8f999c838467f97927640669"
+    },
+    "eq_tormented_gold_boots": {
+      "path": "/art/items/eq_tormented_gold_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Tormented Gold Boots",
+      "sha256": "f2ea778bc2db04205c277c2f727118f73e9be98fbb1ddf779be42826877779e2"
+    },
+    "eq_tormented_gold_gloves": {
+      "path": "/art/items/eq_tormented_gold_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Tormented Gold Gloves",
+      "sha256": "566c210290d40dad0b566a1b4954d92f0fee6ea94f21c582a6cb9e69201b7684"
+    },
+    "eq_tormented_gold_hood": {
+      "path": "/art/items/eq_tormented_gold_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map05-completion-part02-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Tormented Gold Hood",
+      "sha256": "1c1faba370e74b6e927ac583db4f81a3ef9923b61ea51ac85eff4f7b17ff332d"
+    },
+    "eq_gallowsguard_platinum_gauntlets": {
+      "path": "/art/items/eq_gallowsguard_platinum_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Gallowsguard Platinum Gauntlets",
+      "sha256": "17abebbb53d5f3d5f7ef5620947bbbc5fc2029c7356d92b043107057d43d628c"
+    },
+    "eq_hexbound_platinum_gloves": {
+      "path": "/art/items/eq_hexbound_platinum_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Hexbound Platinum Gloves",
+      "sha256": "81d97ba1f07c0883849c759e785f083ca0395a05341e6230c564ee3eb6343801"
+    },
+    "eq_platinum_mercy_necklace": {
+      "path": "/art/items/eq_platinum_mercy_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Platinum Mercy Necklace",
+      "sha256": "3b94558d6f811eac0f74cbe9e54a0cbcd7147d50c65356a914aa6d6c55aed074"
+    },
+    "eq_ravenveil_platinum_hood": {
+      "path": "/art/items/eq_ravenveil_platinum_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Ravenveil Platinum Hood",
+      "sha256": "b765035cf5df8e007944255871a986213c67536c5c80d1ce0117d76824f7c615"
+    },
+    "eq_gallowsguard_platinum_greaves": {
+      "path": "/art/items/eq_gallowsguard_platinum_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Gallowsguard Platinum Greaves",
+      "sha256": "393aba8631a138800d9f18a9629c89b0e1440a7dbf8c8b74946d81d98b6b2c68"
+    },
+    "eq_hexbound_platinum_boots": {
+      "path": "/art/items/eq_hexbound_platinum_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Hexbound Platinum Boots",
+      "sha256": "1a93dae6f9ca6481331e763a86510689fdd2f75f3efe38f1e5ab1db52389bfa4"
+    },
+    "eq_hexbound_platinum_hood": {
+      "path": "/art/items/eq_hexbound_platinum_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Hexbound Platinum Hood",
+      "sha256": "e620f197ca20c410804cf6be51cd3a98430b45b2141af3bacecfac77c84d3d94"
+    },
+    "eq_platinum_hexbreaker_ring": {
+      "path": "/art/items/eq_platinum_hexbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Platinum Hexbreaker Ring",
+      "sha256": "474db489c507b4d66b2d0536fff7a5579145312faa6ce4524ae4770b956f566f"
+    },
+    "eq_platinum_warden_necklace": {
+      "path": "/art/items/eq_platinum_warden_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Platinum Warden Necklace",
+      "sha256": "3d035c6ec8226fe1cd57ebff05ec4e736dc5e3f86bb38b26a6a9efa34de76ddb"
+    },
+    "eq_ravenveil_platinum_boots": {
+      "path": "/art/items/eq_ravenveil_platinum_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Ravenveil Platinum Boots",
+      "sha256": "6ed505d50c9643eeb7449972c2ba56e2b9bce0aeff008f2a578073b199085302"
+    },
+    "eq_ravenveil_platinum_gloves": {
+      "path": "/art/items/eq_ravenveil_platinum_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map06-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Ravenveil Platinum Gloves",
+      "sha256": "b6e93df7ba93d2a9a95550d2dabea8e1ebdc70620ea344393713cbc348ac67f6"
+    },
+    "eq_bloodrite_titanium_gloves": {
+      "path": "/art/items/eq_bloodrite_titanium_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Bloodrite Titanium Gloves",
+      "sha256": "d87d6c43874300982b6312dae46f30fa98fb125aae3bcc6f03d6f92f8f335063"
+    },
+    "eq_chapelshade_titanium_hood": {
+      "path": "/art/items/eq_chapelshade_titanium_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Chapelshade Titanium Hood",
+      "sha256": "93b8184f62546c7f7d049a20d3144526ef72ea76a4badf86f0ad2a3e0a9ae610"
+    },
+    "eq_oathguard_titanium_gauntlets": {
+      "path": "/art/items/eq_oathguard_titanium_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Oathguard Titanium Gauntlets",
+      "sha256": "5f59fe906b6fa464b9c09968a5c720c18f299eebafc622ba872551c908610567"
+    },
+    "eq_titanium_dawnhunter_ring": {
+      "path": "/art/items/eq_titanium_dawnhunter_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Titanium Dawnhunter Ring",
+      "sha256": "5964d89e322aea35de1af7e5fc09b7fff0ba32679c047a6fda96e406e7b4f395"
+    },
+    "eq_titanium_dawnshield_necklace": {
+      "path": "/art/items/eq_titanium_dawnshield_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Titanium Dawnshield Necklace",
+      "sha256": "391e18dc8f70229e5e781132d9313bef8e3c06e18904f67252ba30a8eab39f8c"
+    },
+    "eq_titanium_dawnward_necklace": {
+      "path": "/art/items/eq_titanium_dawnward_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Titanium Dawnward Necklace",
+      "sha256": "817c88d203c74cc0eb1ecdc9148475f845c93c126ca1ff704d5e0ec2715c7a09"
+    },
+    "eq_titanium_relicbreaker_ring": {
+      "path": "/art/items/eq_titanium_relicbreaker_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Titanium Relicbreaker Ring",
+      "sha256": "30aff28856df7e1530ecaf01c04b973e25ef06550a13e84d78c895000c8639b0"
+    },
+    "eq_titanium_sanctuary_necklace": {
+      "path": "/art/items/eq_titanium_sanctuary_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Titanium Sanctuary Necklace",
+      "sha256": "079c379faec5dd1ac10024781c91f2a8faffd68780889bd134d46b6c27270ff6"
+    },
+    "eq_bloodrite_titanium_boots": {
+      "path": "/art/items/eq_bloodrite_titanium_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Bloodrite Titanium Boots",
+      "sha256": "971ac11285c3054cfc5e43a3f8cf16f9bb0667cd92be2ea8b744bc40d1b70011"
+    },
+    "eq_bloodrite_titanium_hood": {
+      "path": "/art/items/eq_bloodrite_titanium_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Bloodrite Titanium Hood",
+      "sha256": "f0f532506ba0d57b5848d0a8a8ed20b42ec0286404b3dde9dcc2e91e9b4ad984"
+    },
+    "eq_chapelshade_titanium_boots": {
+      "path": "/art/items/eq_chapelshade_titanium_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Chapelshade Titanium Boots",
+      "sha256": "527cb8d2050cc475e45369256bf613e11e65d40ffa3306eddc218f35c0b56b96"
+    },
+    "eq_chapelshade_titanium_gloves": {
+      "path": "/art/items/eq_chapelshade_titanium_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part02-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Chapelshade Titanium Gloves",
+      "sha256": "e90fff58aded8009c293f1aaa41bab44409d07a7d5d9946f1a43401cdf62a668"
+    },
+    "eq_oathguard_titanium_greaves": {
+      "path": "/art/items/eq_oathguard_titanium_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map07-completion-part03-approved.png",
+      "rect": [
+        44,
+        44,
+        1210,
+        1028
+      ],
+      "label": "Oathguard Titanium Greaves",
+      "sha256": "f659408dfa2f73d47b7a06b0c91fd1b6af3fb9ae20e530e45c4cf6024337e2e8"
+    },
+    "eq_mithril_bloodseal_necklace": {
+      "path": "/art/items/eq_mithril_bloodseal_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Mithril Bloodseal Necklace",
+      "sha256": "5e06eaf458e9f235ec66a473971974b0b4e115982123e5eca8f5c4b378770f58"
+    },
+    "eq_citadelguard_mithril_gauntlets": {
+      "path": "/art/items/eq_citadelguard_mithril_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Citadelguard Mithril Gauntlets",
+      "sha256": "26264e2be21ba7e27ed98ce32b9a5221ee8066324dbeaa8cc4fc2fe02f6a8810"
+    },
+    "eq_citadelguard_mithril_greaves": {
+      "path": "/art/items/eq_citadelguard_mithril_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Citadelguard Mithril Greaves",
+      "sha256": "1e14847c908a2629a807cc90820fa86a8d74ea466acbe1deba7373867f9431c6"
+    },
+    "eq_hexward_mithril_boots": {
+      "path": "/art/items/eq_hexward_mithril_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Hexward Mithril Boots",
+      "sha256": "0ef695f237cefa6952d783942bd3e58075430812de495b8f1a250164e6da0983"
+    },
+    "eq_hexward_mithril_gloves": {
+      "path": "/art/items/eq_hexward_mithril_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Hexward Mithril Gloves",
+      "sha256": "e750075fe513c5a3567362695c20f9de82e7f93c8b035bbba91a8505834cd872"
+    },
+    "eq_hexward_mithril_hood": {
+      "path": "/art/items/eq_hexward_mithril_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Hexward Mithril Hood",
+      "sha256": "65e7b334b8944d409f41e0c843820cab101017bfb39b1371f0ecae29b9fbed9f"
+    },
+    "eq_mithril_siege_ring": {
+      "path": "/art/items/eq_mithril_siege_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Mithril Siege Ring",
+      "sha256": "6db0bd10df84d38db2111f1cfa068496341c5484e950da43945939ffe35a65e2"
+    },
+    "eq_mithril_trapward_necklace": {
+      "path": "/art/items/eq_mithril_trapward_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Mithril Trapward Necklace",
+      "sha256": "4b94949acc046b5b5d3e462fc3713eadd7ca4fc5c336bd923a5a282b5147760f"
+    },
+    "eq_razorveil_mithril_boots": {
+      "path": "/art/items/eq_razorveil_mithril_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Razorveil Mithril Boots",
+      "sha256": "7cf40b757be3a6c8458285b32dc00ac7e3e18ca7902fd0a5f3193addadaa195f"
+    },
+    "eq_razorveil_mithril_gloves": {
+      "path": "/art/items/eq_razorveil_mithril_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Razorveil Mithril Gloves",
+      "sha256": "73af022bd8c668db464a38c5cfccfb0a146cdcf967749fa1e93a2340d4f39b43"
+    },
+    "eq_razorveil_mithril_hood": {
+      "path": "/art/items/eq_razorveil_mithril_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map08-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Razorveil Mithril Hood",
+      "sha256": "a679a5b075d7a398967b45735ac5a7f261e8ba1aa5ef33f6503b84f675376f9d"
+    },
+    "eq_adamant_bloodward_necklace": {
+      "path": "/art/items/eq_adamant_bloodward_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Adamant Blood ward Necklace",
+      "sha256": "04a7b04de6fc9efa474bb7320de2d6fe4df498732ebc248a92b3be8fbf4e8508"
+    },
+    "eq_adamant_reaver_ring": {
+      "path": "/art/items/eq_adamant_reaver_ring.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Adamant Reaver Ring",
+      "sha256": "3474c3a98d09320efc0aa34d6e89dbb78ca1ea514f8c3a7794d11e56bad1ee33"
+    },
+    "eq_adamant_soulward_necklace": {
+      "path": "/art/items/eq_adamant_soulward_necklace.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Adamant Soulward Necklace",
+      "sha256": "f9f37c1ae373125912011099ac36b12ab069d5bbe5d4d91c4c6374c9840fb5fd"
+    },
+    "eq_bonewarden_adamant_gauntlets": {
+      "path": "/art/items/eq_bonewarden_adamant_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Bone warden Adamant Gauntlets",
+      "sha256": "b2c272a01f3569f01508bce3c2028e79b4d2f092bd81129e7a04fe675aab8d40"
+    },
+    "eq_bonewarden_adamant_greaves": {
+      "path": "/art/items/eq_bonewarden_adamant_greaves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Bone warden Adamant Greaves",
+      "sha256": "7674589a1934a7b93db1654b86e90ab39f9293a1ddadd518041e8cf19f47fc9f"
+    },
+    "eq_ossuary_adamant_boots": {
+      "path": "/art/items/eq_ossuary_adamant_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Ossuary Adamant Boots",
+      "sha256": "fafac35eb17cf8d82e89558a3fb9a9becb305668aa43f2edfa25ebc86b08c8a0"
+    },
+    "eq_ossuary_adamant_gloves": {
+      "path": "/art/items/eq_ossuary_adamant_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Ossuary Adamant Gloves",
+      "sha256": "2ff843569923431b4fcaba73fc962b8b1cf8767ef52beda38df57dd50ba6eef6"
+    },
+    "eq_ossuary_adamant_hood": {
+      "path": "/art/items/eq_ossuary_adamant_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Ossuary Adamant Hood",
+      "sha256": "7e11e8294c30ab2e849b88859557933570c69a1aa50de11bc83c5a5f906da288"
+    },
+    "eq_spineveil_adamant_boots": {
+      "path": "/art/items/eq_spineveil_adamant_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Spineveil Adamant Boots",
+      "sha256": "26b0afa2be5d923fbfccdee08a43e101365f63ade8e3c95d6144228f67816380"
+    },
+    "eq_spineveil_adamant_gloves": {
+      "path": "/art/items/eq_spineveil_adamant_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Spineveil Adamant Gloves",
+      "sha256": "a3b617ffed50912ea91121abc683975e65e8a6744f10cd3df4abbf0676d29123"
+    },
+    "eq_spineveil_adamant_hood": {
+      "path": "/art/items/eq_spineveil_adamant_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map09-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Spineveil Adamant Hood",
+      "sha256": "574e92deb75b06c0d2d7cf8a0cc1e7d4c5cd9983bbcd7206d48515e655d972f8"
+    },
+    "eq_abyssguard_gauntlets": {
+      "path": "/art/items/eq_abyssguard_gauntlets.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Abyssguard Gauntlets",
+      "sha256": "d720146ea4b2fc97f9e53a4dcdfb10470ba18ff452e6066b3727018f669f3dd5"
+    },
+    "eq_abyssguard_sabatons": {
+      "path": "/art/items/eq_abyssguard_sabatons.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Abyssguard Sabatons",
+      "sha256": "722f75368e02b1ce1e6b2123952eb376d17fd407dddeef4c3ef16554cd4e1a2f"
+    },
+    "eq_riftveil_boots": {
+      "path": "/art/items/eq_riftveil_boots.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Riftveil Boots",
+      "sha256": "a84a6a065e8445fe293e04e0330d425141594ac3ac05bcad78aace00414d493f"
+    },
+    "eq_riftveil_gloves": {
+      "path": "/art/items/eq_riftveil_gloves.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Riftveil Gloves",
+      "sha256": "7e55cd39d5ecdb189b0e729a7a629bed2ec29b86e007b8a5fee169f1f365f04c"
+    },
+    "eq_riftveil_hood": {
+      "path": "/art/items/eq_riftveil_hood.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Riftveil Hood",
+      "sha256": "ef2e031360b7854b67be777b16578492baaf1cf9cedbede764f8ac333f8baf25"
+    },
+    "eq_siegebreaker_signet": {
+      "path": "/art/items/eq_siegebreaker_signet.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part01-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "Siegebreaker Signet",
+      "sha256": "84b276e1e66145600ab8de074f0d28b32a5a7b38610b69ff0162988da1785fd0"
+    },
+    "eq_silencebound_signet": {
+      "path": "/art/items/eq_silencebound_signet.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part02-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "Silencebound Signet",
+      "sha256": "f5757b299307d8dcd70fa46f3cf5c99e3ce4e95ed504b96c55ba4bee3a54cb13"
+    },
+    "eq_unbound_pendant": {
+      "path": "/art/items/eq_unbound_pendant.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part02-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "Unbound Pendant",
+      "sha256": "d6425cc3eea06bcace5a5a3c40590953ea740856bff009c0c56da29d29957892"
+    },
+    "eq_voidrite_circlet": {
+      "path": "/art/items/eq_voidrite_circlet.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part02-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "Voidrite Circlet",
+      "sha256": "846754c0da4d7fd1e85e4e3640b3375c36058dc4e30aa8f3b45c19da78a0a60e"
+    },
+    "eq_voidrite_handwraps": {
+      "path": "/art/items/eq_voidrite_handwraps.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part02-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "Voidrite Handwraps",
+      "sha256": "3d91520634e395ad4c01ea9945ceb4acc824eaa5c47dc7a0399834f376f9e6fc"
+    },
+    "eq_voidrite_slippers": {
+      "path": "/art/items/eq_voidrite_slippers.png",
+      "source": "docs/art/inventory-concept-map03-10/equipment/map10-completion-part02-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "Voidrite Slippers",
+      "sha256": "2f43f99c1102897e2152bad29714c8b32ac869154097773aea2020e19f263ec6"
+    },
+    "eq_ashfall_bronze_sword": {
+      "path": "/art/items/eq_ashfall_bronze_sword.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        15,
+        22,
+        403,
+        514
+      ],
+      "label": "eq_ashfall_bronze_sword",
+      "sha256": "506e4d7c3596235c84ef49171f131f1db4bf281879ed0ed3b29b705ada79d4b9"
+    },
+    "eq_ashspirit_bronze_staff": {
+      "path": "/art/items/eq_ashspirit_bronze_staff.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        433,
+        22,
+        821,
+        514
+      ],
+      "label": "eq_ashspirit_bronze_staff",
+      "sha256": "96a7c7a1cdc760dcb2706c05b322898f0660bacc608613f0aa9ac7bafda77158"
+    },
+    "eq_ashveil_bronze_twin_blades": {
+      "path": "/art/items/eq_ashveil_bronze_twin_blades.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        851,
+        22,
+        1239,
+        514
+      ],
+      "label": "eq_ashveil_bronze_twin_blades",
+      "sha256": "4644cc1cc38e48711f058ccdf1e4331ee6e2905dbaa1b5deb894fd8b5f14f4d6"
+    },
+    "eq_ashfall_bronze_helm": {
+      "path": "/art/items/eq_ashfall_bronze_helm.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        15,
+        649,
+        403,
+        1141
+      ],
+      "label": "eq_ashfall_bronze_helm",
+      "sha256": "cf6ef0f3d9c3e65ee5f6c13e9c7758b44c0f89030da23347056baab712328387"
+    },
+    "eq_ashfall_bronze_gauntlets": {
+      "path": "/art/items/eq_ashfall_bronze_gauntlets.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "eq_ashfall_bronze_gauntlets",
+      "sha256": "bfa70d732a2a24cb83baa5e1b0ddef663605e715e8143344dc86a6d9e7a8b9ef"
+    },
+    "eq_ashspirit_bronze_gloves": {
+      "path": "/art/items/eq_ashspirit_bronze_gloves.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "eq_ashspirit_bronze_gloves",
+      "sha256": "4406ba2409bec09149dd93bb6ad0d4007360b7f6d624b1ce1675fd9cb9d74a03"
+    },
+    "eq_ashveil_bronze_gloves": {
+      "path": "/art/items/eq_ashveil_bronze_gloves.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "eq_ashveil_bronze_gloves",
+      "sha256": "858f321c2638bdc6e73ea9025cae6a0e481cf7ba38ab074a50c86d6c72121b56"
+    },
+    "eq_ashfall_bronze_greaves": {
+      "path": "/art/items/eq_ashfall_bronze_greaves.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "eq_ashfall_bronze_greaves",
+      "sha256": "7229d7c9810e7dc8a3a7aa0a86b804d2351a49857f3235c6bef09c105be89b4c"
+    },
+    "eq_ashspirit_bronze_boots": {
+      "path": "/art/items/eq_ashspirit_bronze_boots.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "eq_ashspirit_bronze_boots",
+      "sha256": "3f09340da8bc21c66e3ee2f103f1d6812edf5cbac27ca5cb34826ee6af027076"
+    },
+    "eq_ashveil_bronze_boots": {
+      "path": "/art/items/eq_ashveil_bronze_boots.png",
+      "source": "docs/art/concepts/set06-bronze-hands-feet-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "eq_ashveil_bronze_boots",
+      "sha256": "d954f1a1d450483fbf637ea20dfeb05feec2732356b3cc9b7ced96fb12c0796b"
+    },
+    "eq_ashspirit_bronze_hood": {
+      "path": "/art/items/eq_ashspirit_bronze_hood.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        13,
+        18,
+        371,
+        420
+      ],
+      "label": "eq_ashspirit_bronze_hood",
+      "sha256": "ed6cdfdd54698b71b61e04e90513e779bb9a0caab794033341ac6672cc674d81"
+    },
+    "eq_ashveil_bronze_hood": {
+      "path": "/art/items/eq_ashveil_bronze_hood.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        397,
+        18,
+        755,
+        420
+      ],
+      "label": "eq_ashveil_bronze_hood",
+      "sha256": "eb347cf5627fe09f56b08a197de777493b251a4337e573c3daf099b3c79ea01e"
+    },
+    "eq_ashveil_bronze_bow": {
+      "path": "/art/items/eq_ashveil_bronze_bow.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        420
+      ],
+      "label": "eq_ashveil_bronze_bow",
+      "sha256": "f9bba7b4a5f238b420d11d916bcd2fbf13bf0a154b3424a1c731bdc530aa3c63"
+    },
+    "eq_bronze_ashbone_hunter_ring": {
+      "path": "/art/items/eq_bronze_ashbone_hunter_ring.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        420
+      ],
+      "label": "eq_bronze_ashbone_hunter_ring",
+      "sha256": "ecc7c860d77b8ab9832b14eaddb77a51d2c89911ac255f0bb291b6cd93fee163"
+    },
+    "eq_bronze_ashbone_spirit_ring": {
+      "path": "/art/items/eq_bronze_ashbone_spirit_ring.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        13,
+        530,
+        371,
+        932
+      ],
+      "label": "eq_bronze_ashbone_spirit_ring",
+      "sha256": "381880940de58613845587fc6a2d9fd685414c0b55b9e9afd712f398a987dfbc"
+    },
+    "eq_bronze_ashscale_necklace": {
+      "path": "/art/items/eq_bronze_ashscale_necklace.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        397,
+        530,
+        755,
+        932
+      ],
+      "label": "eq_bronze_ashscale_necklace",
+      "sha256": "297717cbd8c168bc9c752f24b568212e8adbf052ef4e23da8e23f513ac26d629"
+    },
+    "eq_bronze_woodland_ward_necklace": {
+      "path": "/art/items/eq_bronze_woodland_ward_necklace.png",
+      "source": "docs/art/concepts/set07-bronze-hood-bow-accessories-approved.png",
+      "rect": [
+        781,
+        530,
+        1139,
+        932
+      ],
+      "label": "eq_bronze_woodland_ward_necklace",
+      "sha256": "9c594b4d566a25057ef88b0dd21873201d95d60fc666d7122a3960ce3530e78a"
+    }
+  },
+  "materials": {
+    "mat_marsh_hide": {
+      "path": "/art/materials/mat_marsh_hide.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Marsh Hide",
+      "sha256": "99c0495e639db8f4518425d9ad5417fb6c9b9003fa466b742e756e9f8d8ba73a"
+    },
+    "mat_crocodile_tooth": {
+      "path": "/art/materials/mat_crocodile_tooth.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Crocodile Tooth",
+      "sha256": "12d30ee8c86e0836cb58a5edf615e82d2bb7c061c6b534c3b9359936b9751723"
+    },
+    "mat_venom_sac": {
+      "path": "/art/materials/mat_venom_sac.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Venom Sac",
+      "sha256": "74142e8b310a6178dc62dfbbc3b80fc30d4fb3137e77ecbbc37ca09910a15bc4"
+    },
+    "mat_mosquito_proboscis": {
+      "path": "/art/materials/mat_mosquito_proboscis.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Mosquito Proboscis",
+      "sha256": "aaf8e4a8ca2e956ce7fe071aae9db787eebd68f7f1d5f1527e4db1e8b11c11ae"
+    },
+    "mat_rot_spore": {
+      "path": "/art/materials/mat_rot_spore.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Rot Spore",
+      "sha256": "c38340eaa9f9b780eec42325aa436883dae664140f93655177f78e445c3c3665"
+    },
+    "mat_steel_scrap": {
+      "path": "/art/materials/mat_steel_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Steel Scrap",
+      "sha256": "dd0333a4545ec719ee3fd5df3fa0fb32a29efabaa5eff1415b4f3d478107a07c"
+    },
+    "mat_rusted_shield_fragment": {
+      "path": "/art/materials/mat_rusted_shield_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Rusted Shield Fragment",
+      "sha256": "92e38f215920cfecadae390aa15afb06085b994d77954f12239b273a52fa9a18"
+    },
+    "mat_burial_shroud": {
+      "path": "/art/materials/mat_burial_shroud.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Burial Shroud",
+      "sha256": "7e7ff92189913a274c8bc84e4c3e2241fad00334ded4579ab5b04c9c00ebc0df"
+    },
+    "mat_soul_residue": {
+      "path": "/art/materials/mat_soul_residue.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Soul Residue",
+      "sha256": "17dc6bfd0e4d6a2ad286c039c9b1503de2be7d5e63ba5e85f7436c90ea8b9734"
+    },
+    "mat_ghoul_claw": {
+      "path": "/art/materials/mat_ghoul_claw.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Ghoul Claw",
+      "sha256": "80c8591c9b33cb76c63457086e407d3d8945cc8a0b18e1b39f1f1acb58712fd3"
+    },
+    "mat_bell_fragment": {
+      "path": "/art/materials/mat_bell_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Bell Fragment",
+      "sha256": "56d4b1b07cca6869c689443b5b93a0024fa4983d7716761c983d9684898fda81"
+    },
+    "mat_silver_scrap": {
+      "path": "/art/materials/mat_silver_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Silver Scrap",
+      "sha256": "b82369e2564657ac3be1df82c5322324d565973854a44196a66718b944ceceec"
+    },
+    "mat_broken_pickaxe_fragment": {
+      "path": "/art/materials/mat_broken_pickaxe_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Broken Pickaxe Fragment",
+      "sha256": "a981ce61485e3644fdd3885938a572595c1a8326989ec130d0eb0f819c33c11b"
+    },
+    "mat_coalwing_membrane": {
+      "path": "/art/materials/mat_coalwing_membrane.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Coalwing Membrane",
+      "sha256": "242ba215ddc1197b0f7a65ea3ff3f71a978536cc251ddbf2fada6bbf2811ba4b"
+    },
+    "mat_ore_silk": {
+      "path": "/art/materials/mat_ore_silk.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Ore Silk",
+      "sha256": "5b7ae20ea6f84fe7e7a6e3ffc8783e91e35002ca2e9ecbf58a168d664cd156e3"
+    },
+    "mat_darkiron_core": {
+      "path": "/art/materials/mat_darkiron_core.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Darkiron Core",
+      "sha256": "3571b0a7e3dc4161d9790147fab55d8435da341966719f994df4d15e08c69f25"
+    },
+    "mat_tormented_crystal_shard": {
+      "path": "/art/materials/mat_tormented_crystal_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Tormented Crystal Shard",
+      "sha256": "18d2f3046e9cdf753975aa4ef06e86edc4cc23e266bdcb2c8385759152eae5b7"
+    },
+    "mat_gold_scrap": {
+      "path": "/art/materials/mat_gold_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Gold Scrap",
+      "sha256": "bd877e0a866b3fe0fc61654c3b80abc3e7ecbbecf0cb938de395337f0c327cdb"
+    },
+    "mat_gallows_rope": {
+      "path": "/art/materials/mat_gallows_rope.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Gallows Rope",
+      "sha256": "b3c1441ec87062eba5deed10a8c0dcc769cca437bbbd1ea6b58fedc2fcbdb93e"
+    },
+    "mat_carrion_feather": {
+      "path": "/art/materials/mat_carrion_feather.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Carrion Feather",
+      "sha256": "2a6421d8cf77359f7b0be14ab84e9e223f15b9f750449d0ff12235aa0792e0ca"
+    },
+    "mat_puppet_timber": {
+      "path": "/art/materials/mat_puppet_timber.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Puppet Timber",
+      "sha256": "a69792aca66fb65e6f997847d0ab9b059bbf37dd622e7967d2f378a5d02b4d91"
+    },
+    "mat_hex_cloth": {
+      "path": "/art/materials/mat_hex_cloth.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Hex Cloth",
+      "sha256": "73be893f9c9df35c60824329de330dc1b22c41621cefd5988276aec7f2e5f34d"
+    },
+    "mat_hollow_bell_shard": {
+      "path": "/art/materials/mat_hollow_bell_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Hollow Bell Shard",
+      "sha256": "d8da3b9e113cbd8bc046c7b66e74c632d601261d3d56d6c2b35f6aa85507cf72"
+    },
+    "mat_platinum_scrap": {
+      "path": "/art/materials/mat_platinum_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Platinum Scrap",
+      "sha256": "f8b7414d0babe17664acbe02762a709e4bc7cfc779715f2b14bfa89c75dd14c7"
+    },
+    "mat_bloodstained_cloth": {
+      "path": "/art/materials/mat_bloodstained_cloth.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Bloodstained Cloth",
+      "sha256": "683ce8c7506947a4e37292671428ce30b5f60ceb590185e8426c1058a6ee4fd4"
+    },
+    "mat_ritual_thread": {
+      "path": "/art/materials/mat_ritual_thread.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Ritual Thread",
+      "sha256": "3b0994acf17d8692b6af36e23bae2b5e1d7049aa118ad09624f141b65fcf9d9f"
+    },
+    "mat_gargoyle_shard": {
+      "path": "/art/materials/mat_gargoyle_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Gargoyle Shard",
+      "sha256": "9187d27e14d1c6a75444677a8ea93cc4ce5f826ba498253c14ce592cf34aea26"
+    },
+    "mat_hymn_parchment": {
+      "path": "/art/materials/mat_hymn_parchment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Hymn Parchment",
+      "sha256": "e720391e4b63ae02eab19f52fb4e12a9374f757c6a5dd01dad2337ebdd4e7970"
+    },
+    "mat_scourge_hook": {
+      "path": "/art/materials/mat_scourge_hook.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Scourge Hook",
+      "sha256": "de7a62e6271a72489316df6e123c4ae33a6f25efdd23232f4f9cbfa04080fe7d"
+    },
+    "mat_titanium_scrap": {
+      "path": "/art/materials/mat_titanium_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Titanium Scrap",
+      "sha256": "5e9d791b62dd5c1134d5293d71a40b86c0bdc36fa141f159ca6d9401084d4304"
+    },
+    "mat_halberd_shard": {
+      "path": "/art/materials/mat_halberd_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Halberd Shard",
+      "sha256": "33de85d66f40ab63e1c81cd3d81dd2ef63841ec977de363d6c78c39703c8935a"
+    },
+    "mat_razorwire_coil": {
+      "path": "/art/materials/mat_razorwire_coil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Razorwire Coil",
+      "sha256": "83bf1aa7dcc8cf0f6db471159fb47163f0a4b016057a527a983ade27e6644bb3"
+    },
+    "mat_bloodglass_shard": {
+      "path": "/art/materials/mat_bloodglass_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Bloodglass Shard",
+      "sha256": "b68d0a4c820b360ef3eb65507fcbd33b5eedcabdbdcc174d830557c89855a222"
+    },
+    "mat_leech_membrane": {
+      "path": "/art/materials/mat_leech_membrane.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Leech Membrane",
+      "sha256": "1ac7569d25ae0d7cbb2c01c009d541cb74d32f14c4b2bda61bc2fa00e7e76c2e"
+    },
+    "mat_cursed_ember": {
+      "path": "/art/materials/mat_cursed_ember.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Cursed Ember",
+      "sha256": "4a707204511fe1b8c6eb157270e0e01da7137b5fde17b32cc6ca709b58c4acab"
+    },
+    "mat_mithril_scrap": {
+      "path": "/art/materials/mat_mithril_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Mithril Scrap",
+      "sha256": "cf94f5306316f5ae3f21896bf401c71468735af4c3cfd948b7831e1823b1e261"
+    },
+    "mat_reaver_bone": {
+      "path": "/art/materials/mat_reaver_bone.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Reaver Bone",
+      "sha256": "ed8ee2952173963d4b3de7c4cd202fe2b8d39625f8d3553d9454abf2be8e5d38"
+    },
+    "mat_wraith_shroud": {
+      "path": "/art/materials/mat_wraith_shroud.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Wraith Shroud",
+      "sha256": "2c542037c6130e92ae8e9cd99557006c894164f1c3db5a484683f1f24af722ad"
+    },
+    "mat_behemoth_rib": {
+      "path": "/art/materials/mat_behemoth_rib.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Behemoth Rib",
+      "sha256": "970cdcb41184a8853555ecb1d423c3418b2b0ff19dc6d4ed8cb80434c929433a"
+    },
+    "mat_marrow_core": {
+      "path": "/art/materials/mat_marrow_core.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Marrow Core",
+      "sha256": "fe79cbfa9084b3752ffa5d4a06f22609d80a4ff81c4f1fa99273e425cfa012a6"
+    },
+    "mat_spine_needle": {
+      "path": "/art/materials/mat_spine_needle.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Spine Needle",
+      "sha256": "d1f37d641e6b27e63f2724b95dea76fdeef27fe6a3bd86e3b144b0e1c7ebed5b"
+    },
+    "mat_adamant_scrap": {
+      "path": "/art/materials/mat_adamant_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Adamant Scrap",
+      "sha256": "887e26600be57859b5129e127feea538880c8c6755cea39c7b6135436026a962"
+    },
+    "mat_abyssal_plate": {
+      "path": "/art/materials/mat_abyssal_plate.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Abyssal Plate",
+      "sha256": "9aedda8b266cbada4662d48ed8cf1f3d34fa08eea2c792df7750c79433d24d00"
+    },
+    "mat_cinder_fang": {
+      "path": "/art/materials/mat_cinder_fang.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Cinder Fang",
+      "sha256": "b8c711919754f314de221138b0f2369c9270b46ab7c17cc8ed67811f39560af5"
+    },
+    "mat_rift_silk": {
+      "path": "/art/materials/mat_rift_silk.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Rift Silk",
+      "sha256": "22c9bd111546414aa512e06e1dd84c474aa7fb6a28cd9ef2f2f2b7b9ba28cd11"
+    },
+    "mat_mirror_shard": {
+      "path": "/art/materials/mat_mirror_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Mirror Shard",
+      "sha256": "328e0f8c6b63bcccb7902757781cd865883420bf2f917f1e2f044761f91a076e"
+    },
+    "mat_null_parchment": {
+      "path": "/art/materials/mat_null_parchment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Null Parchment",
+      "sha256": "04f969f617299a05abb40500b8368fe3f8f22dad2f6eb9dbc38f02ea7473425e"
+    },
+    "mat_orichalcum_scrap": {
+      "path": "/art/materials/mat_orichalcum_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-concept.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Orichalcum Scrap",
+      "sha256": "191dcee6f77493968092ed2183d42b399e5e6ed005817c83a41c38e17c3b8c1f"
+    },
+    "mat_organic_fluid": {
+      "path": "/art/materials/mat_organic_fluid.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-completion-approved.png",
+      "rect": [
+        27,
+        18,
+        741,
+        404
+      ],
+      "label": "Organic Fluid",
+      "sha256": "bd30544a6daca0dd7325702b653591fde7cfc06bc1b5e3670e080fb7998e3a2f"
+    },
+    "mat_slime_gland": {
+      "path": "/art/materials/mat_slime_gland.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-completion-approved.png",
+      "rect": [
+        795,
+        18,
+        1509,
+        404
+      ],
+      "label": "Slime Gland",
+      "sha256": "37d5fdfbd679875e6b2b56b53c1203967122a163779e2df94b53a0e601383b16"
+    },
+    "mat_fungal_fiber": {
+      "path": "/art/materials/mat_fungal_fiber.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-completion-approved.png",
+      "rect": [
+        27,
+        530,
+        741,
+        916
+      ],
+      "label": "Fungal Fiber",
+      "sha256": "9e4d520d5b36e2c748f8123adbbd3cae17fa173ec843f465939d8eae4cbedde2"
+    },
+    "mat_broodmother_venom_gland": {
+      "path": "/art/materials/mat_broodmother_venom_gland.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map03-completion-approved.png",
+      "rect": [
+        795,
+        530,
+        1509,
+        916
+      ],
+      "label": "Broodmother Venom Gland",
+      "sha256": "b1a98a6ea5ed187768fd1577d80b8ccfae9466bcc3272dbc41053b4730fc0b45"
+    },
+    "mat_thick_hide": {
+      "path": "/art/materials/mat_thick_hide.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Thick Hide",
+      "sha256": "a8bc60e04b593430d90c3a2a9df841634f41ab5260c0fc6559d2ba5410a5146e"
+    },
+    "mat_dire_wolf_fang": {
+      "path": "/art/materials/mat_dire_wolf_fang.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Dire Wolf Fang",
+      "sha256": "6913b42b9680bd60c477818e4dbae3a571ca0461f76741f9c92b6e14301b9157"
+    },
+    "mat_wing_membrane": {
+      "path": "/art/materials/mat_wing_membrane.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Wing Membrane",
+      "sha256": "caeb33fb2aa98ecbbe02d5270c191384bea08d2995773babac108011253bc817"
+    },
+    "mat_wing_sinew": {
+      "path": "/art/materials/mat_wing_sinew.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Wing Sinew",
+      "sha256": "19d8be43ecece94106aef4c9ad3d26497e678c33f1b5fde5be426c584eaf44b2"
+    },
+    "mat_arcane_dust": {
+      "path": "/art/materials/mat_arcane_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Arcane Dust",
+      "sha256": "3ec55286bdbea21a39e494107a6c535fd5b3f06936fd8b6f0413593a36654a16"
+    },
+    "mat_gray_bear_hide": {
+      "path": "/art/materials/mat_gray_bear_hide.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Gray Bear Hide",
+      "sha256": "76f9e70d9c109c8bfe16f1b1d3b200228cdaeaf3173ec87a05039e7930cd39a0"
+    },
+    "mat_bear_claw": {
+      "path": "/art/materials/mat_bear_claw.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part02-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        404
+      ],
+      "label": "Bear Claw",
+      "sha256": "f62257bf3e51b66e96ec2bd122fcf9b1c9a22155b003b02ea9eba7b3dd528841"
+    },
+    "mat_demon_eye": {
+      "path": "/art/materials/mat_demon_eye.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part02-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        404
+      ],
+      "label": "Demon Eye",
+      "sha256": "4c6f30d70cdb70395c9134071e29fb68b4d808d9b0f4c688bdff5dbdc8f0c5ec"
+    },
+    "mat_iron_scrap": {
+      "path": "/art/materials/mat_iron_scrap.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part02-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        404
+      ],
+      "label": "Iron Scrap",
+      "sha256": "4c8fb362c8b65a2809b690b28ca8790a1c43173d3b04caa9876d8552cccefae4"
+    },
+    "mat_undead_sigil": {
+      "path": "/art/materials/mat_undead_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map02-completion-part02-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        916
+      ],
+      "label": "Undead Sigil",
+      "sha256": "bca10034b444cdd5b4b1ae9f884d9886947e6869b3c0662796358b22aedce432"
+    },
+    "mat_dried_sinew": {
+      "path": "/art/materials/mat_dried_sinew.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Dried Sinew",
+      "sha256": "967ebab41e9aa04189963bacdfad6aedc349d912e5e1dc127b6a28a64f1e97bc"
+    },
+    "mat_rusted_arrowhead": {
+      "path": "/art/materials/mat_rusted_arrowhead.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Rusted Arrowhead",
+      "sha256": "a11c4d4c9f4aa59163a96c094e3fe2ff5c223f85232da7b47c5d1473f5fe9472"
+    },
+    "mat_hardened_corpse_hide": {
+      "path": "/art/materials/mat_hardened_corpse_hide.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Hardened Corpse Hide",
+      "sha256": "d83f2b8c27c35ba7515ca88a2e5521dc8837cc02d1a1c065aec50822312369a2"
+    },
+    "mat_armor_rivet": {
+      "path": "/art/materials/mat_armor_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Armor Rivet",
+      "sha256": "ec87df44902682edc977d40805087fe951a14d9f8698f203012fe14b46069ae0"
+    },
+    "mat_iron_tomb_sigil": {
+      "path": "/art/materials/mat_iron_tomb_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map04-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Iron Tomb Sigil",
+      "sha256": "752b6ae6e089d65123e03e1c00948a6c39f4944a826f7af319b63788e3c3de48"
+    },
+    "mat_worn_rivet": {
+      "path": "/art/materials/mat_worn_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Worn Rivet",
+      "sha256": "d16ea2a741bc4f57e44672280788f4293602eed1f7ecf552c3b34589e033bd47"
+    },
+    "mat_coal_bat_sinew": {
+      "path": "/art/materials/mat_coal_bat_sinew.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Coal Bat Sinew",
+      "sha256": "72432a8e11e6f960fe19ed655dee91357dded421f5b0dd864e4238d67b2c6671"
+    },
+    "mat_rusted_chain_link": {
+      "path": "/art/materials/mat_rusted_chain_link.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Rusted Chain Link",
+      "sha256": "58613d61b57f7cd76eea3e28abedb9cd4054378b4646befd6af3734f2a3c9be7"
+    },
+    "mat_tormented_dust": {
+      "path": "/art/materials/mat_tormented_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Tormented Dust",
+      "sha256": "81e831838c0a3c1e4eee663b935305224830bfd9c6088402063ef12493cdf355"
+    },
+    "mat_blackore_heart": {
+      "path": "/art/materials/mat_blackore_heart.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map05-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Blackore Heart",
+      "sha256": "7801a910b6d7623bfee35dd0634d8700ce59495956b92a5731477dfe2699045c"
+    },
+    "mat_hangman_s_knot": {
+      "path": "/art/materials/mat_hangman_s_knot.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Hangman's Knot",
+      "sha256": "a5fc443d60c8e020ef6317f21225fc8de16067422c96b0e92624ca24e11454f4"
+    },
+    "mat_chipped_blade": {
+      "path": "/art/materials/mat_chipped_blade.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Chipped Blade",
+      "sha256": "edd04bcf9d10ab62123eedab896af43187ead74d7c58baf62278f2575f03136f"
+    },
+    "mat_executioner_rivet": {
+      "path": "/art/materials/mat_executioner_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Executioner Rivet",
+      "sha256": "569b4437ce84b6b0015e5690611377cc23762259fcd46734320d31e137512c93"
+    },
+    "mat_crow_talon": {
+      "path": "/art/materials/mat_crow_talon.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Crow Talon",
+      "sha256": "1ce2abdbd66729a1c2a387c6ba0255d9f52019a8b0fe7d289c97ffe3f297c39f"
+    },
+    "mat_mourning_ash": {
+      "path": "/art/materials/mat_mourning_ash.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Mourning Ash",
+      "sha256": "d3f63976daf472ffbddc62d09c860327f2b9dbb383e98ee30e4754465d124577"
+    },
+    "mat_warden_plate": {
+      "path": "/art/materials/mat_warden_plate.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Warden Plate",
+      "sha256": "180c749b72fdca0b2c8e70a14a6794f153cbfabc6976824880ed1c130a4033f7"
+    },
+    "mat_patriarch_sigil": {
+      "path": "/art/materials/mat_patriarch_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part02-approved.png",
+      "rect": [
+        21,
+        16,
+        571,
+        364
+      ],
+      "label": "Patriarch Sigil",
+      "sha256": "a59112442279e7de33ab0b734c423a2a507575956b05ae852abbac54f724891f"
+    },
+    "mat_gallows_ember": {
+      "path": "/art/materials/mat_gallows_ember.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part02-approved.png",
+      "rect": [
+        612,
+        16,
+        1162,
+        364
+      ],
+      "label": "Gallows Ember",
+      "sha256": "e3f29719f67a318ab7c8fc40d888bbd562dbe175ea9e6a890dc8939314b28963"
+    },
+    "mat_nameless_seal": {
+      "path": "/art/materials/mat_nameless_seal.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map06-completion-part02-approved.png",
+      "rect": [
+        1203,
+        16,
+        1753,
+        364
+      ],
+      "label": "Nameless Seal",
+      "sha256": "2bf9ef298ecf4f800a9c4c6604adab1fe4370fc48faf337ec6818931aa18beaf"
+    },
+    "mat_penitent_plate": {
+      "path": "/art/materials/mat_penitent_plate.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Penitent Plate",
+      "sha256": "8a21df46bc27da866dd62fb79cf9c1831d20ae2e5b4960db2f90bfd2771ac90f"
+    },
+    "mat_vow_chain": {
+      "path": "/art/materials/mat_vow_chain.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Vow Chain",
+      "sha256": "e575e42f5d2bd9918268d930a1b5e4099e117144f8310c4779d5be8768e51a6e"
+    },
+    "mat_stone_wing_tip": {
+      "path": "/art/materials/mat_stone_wing_tip.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Stone Wing Tip",
+      "sha256": "6d3f0cf021c62abab47b72c7a86f079ecf22f611ebb05266caa2c19d39e98271"
+    },
+    "mat_reliquary_fragment": {
+      "path": "/art/materials/mat_reliquary_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Reliquary Fragment",
+      "sha256": "678ea8aefdf15b535d19f13f6e05d6f26e48466282e74c033151af0353a45d74"
+    },
+    "mat_sacred_dust": {
+      "path": "/art/materials/mat_sacred_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Sacred Dust",
+      "sha256": "865467700cd468fba0ccd20b00daee3f6e8938c10b7b56c844484b85a153684b"
+    },
+    "mat_barbed_cord": {
+      "path": "/art/materials/mat_barbed_cord.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Barbed Cord",
+      "sha256": "bbe285d8d72e419d6ef261945539226fb303d0cdb197212d6b7aed464bff9776"
+    },
+    "mat_desecrated_rivet": {
+      "path": "/art/materials/mat_desecrated_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part02-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Desecrated Rivet",
+      "sha256": "938885d9047ad13406d2fa2f5dfd459d060e19eb5fc915929ab7ccbb050dece6"
+    },
+    "mat_crimson_sigil": {
+      "path": "/art/materials/mat_crimson_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map07-completion-part02-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Crimson Sigil",
+      "sha256": "05c94464f7435ee667f132830b82e3aebccdea0377e7ee5d087e05ef83aaaec4"
+    },
+    "mat_serrated_rivet": {
+      "path": "/art/materials/mat_serrated_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Serrated Rivet",
+      "sha256": "b4b6fdac3cd6649e04c29a5dbb5de467495215b4bbc6d78995c1862cf6300f27"
+    },
+    "mat_trap_spring": {
+      "path": "/art/materials/mat_trap_spring.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Trap Spring",
+      "sha256": "b1f6004aafa545cc8f447a254729e9d6977df02fa3bc784c0dfde887847bc2c0"
+    },
+    "mat_bloodglass_sinew": {
+      "path": "/art/materials/mat_bloodglass_sinew.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Bloodglass Sinew",
+      "sha256": "7676d621a4b33cea656e97ac30f869a01463250b27c06c7aca66be5728a0f213"
+    },
+    "mat_coagulated_blood": {
+      "path": "/art/materials/mat_coagulated_blood.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Coagulated Blood",
+      "sha256": "71c79776e725279f67d42d7906abd62918896926a1d04993859853d45c497cab"
+    },
+    "mat_mithril_wing_shard": {
+      "path": "/art/materials/mat_mithril_wing_shard.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Mithril Wing Shard",
+      "sha256": "46a3d949e530d52afcadaeb074a871b9a121da43d9eb52babc7202c5f9b3fc8d"
+    },
+    "mat_hexfire_dust": {
+      "path": "/art/materials/mat_hexfire_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Hexfire Dust",
+      "sha256": "11908b7fe45ce0ec69f0387db1d2d7a0c3c27ed17742cd184a93a929e97fc19d"
+    },
+    "mat_oathbreaker_plate": {
+      "path": "/art/materials/mat_oathbreaker_plate.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part02-approved.png",
+      "rect": [
+        27,
+        18,
+        741,
+        404
+      ],
+      "label": "Oathbreaker Plate",
+      "sha256": "f9a947000d12e6797fd90e8fd95019e67947e37ee2560c2293ade8838bf89e9f"
+    },
+    "mat_cursed_relic_fragment": {
+      "path": "/art/materials/mat_cursed_relic_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part02-approved.png",
+      "rect": [
+        795,
+        18,
+        1509,
+        404
+      ],
+      "label": "Cursed Relic Fragment",
+      "sha256": "1d3779a78e15bd349f5983acbc5f880b311c319eae50eb64147ce4ad4d698550"
+    },
+    "mat_castellan_sigil": {
+      "path": "/art/materials/mat_castellan_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part02-approved.png",
+      "rect": [
+        27,
+        530,
+        741,
+        916
+      ],
+      "label": "Castellan Sigil",
+      "sha256": "e7b4e84f2e7421509aadb36dc36f09f649dffdeedbc01f4a17fa7c34bbedc58f"
+    },
+    "mat_usurper_sigil": {
+      "path": "/art/materials/mat_usurper_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map08-completion-part02-approved.png",
+      "rect": [
+        795,
+        530,
+        1509,
+        916
+      ],
+      "label": "Usurper Sigil",
+      "sha256": "5e827296cd875a50b13db271af8ec05418008cf0addcad57f6d64f2da35b997e"
+    },
+    "mat_reaver_tendon": {
+      "path": "/art/materials/mat_reaver_tendon.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Reaver Tendon",
+      "sha256": "617daf6fc5eea7c66be2b404d0300e6824a29006a54f2fd4bde3a5782c1e0006"
+    },
+    "mat_marrow_shaft": {
+      "path": "/art/materials/mat_marrow_shaft.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Marrow Shaft",
+      "sha256": "6858eebfd8c736a0b77faf1d320a7ac6bb31bba128b712ce0a2c7e566a6479fe"
+    },
+    "mat_bone_bowstring": {
+      "path": "/art/materials/mat_bone_bowstring.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Bone Bowstring",
+      "sha256": "0975fe0df68b019f0020c495f00f015c1c1c0602652dc2eb772d32da48a8b573"
+    },
+    "mat_ossuary_essence": {
+      "path": "/art/materials/mat_ossuary_essence.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Ossuary Essence",
+      "sha256": "c8880c5a593233e031be84c68a76470d7b76f2bd3ec01d0f2a09f60da80dbd9b"
+    },
+    "mat_hexed_skull_fragment": {
+      "path": "/art/materials/mat_hexed_skull_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Hexed Skull Fragment",
+      "sha256": "5bb8d1f4451885f0637c0065d5bb13b588bce2e5b3c0470a12a91aef09a58474"
+    },
+    "mat_hexed_bone_dust": {
+      "path": "/art/materials/mat_hexed_bone_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Hexed Bone Dust",
+      "sha256": "2275f2388eaaaa4afaa0cbad84737fdffe4d2f0aca30b06977a74de4413d68ef"
+    },
+    "mat_barbed_spine": {
+      "path": "/art/materials/mat_barbed_spine.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part02-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        404
+      ],
+      "label": "Barbed Spine",
+      "sha256": "eff4c8b06d01d08d5924fe6ed80c6dc0421a669a837ba845857236fe7d8be802"
+    },
+    "mat_pale_bone_dust": {
+      "path": "/art/materials/mat_pale_bone_dust.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part02-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        404
+      ],
+      "label": "Pale Bone Dust",
+      "sha256": "899149bc1cf637b228ad0e352f363bbaf9a82782a936ddbacca884cb38851b45"
+    },
+    "mat_adamant_bone_plate": {
+      "path": "/art/materials/mat_adamant_bone_plate.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part02-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        404
+      ],
+      "label": "Adamant Bone Plate",
+      "sha256": "5e943a71301d77392ec6566188fcd515679e627e90436d1633276ac5c8c6123f"
+    },
+    "mat_sovereign_sigil": {
+      "path": "/art/materials/mat_sovereign_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map09-completion-part02-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        916
+      ],
+      "label": "Sovereign Sigil",
+      "sha256": "62b4b29376e3daa30fbf16db777e36c69bd3199279ab7bd45b6ef73402d1ba77"
+    },
+    "mat_legion_rivet": {
+      "path": "/art/materials/mat_legion_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Legion Rivet",
+      "sha256": "3aaf6e75b878d07008473dc92e16d80e9fb9ea542890597567c1bb98e7a1a481"
+    },
+    "mat_ember_gland": {
+      "path": "/art/materials/mat_ember_gland.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Ember Gland",
+      "sha256": "17e49e5244a71d0a731c5a450c2afed1d28cc3ad348b3ac14a617dddfc03820b"
+    },
+    "mat_apostle_venom_sac": {
+      "path": "/art/materials/mat_apostle_venom_sac.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Apostle Venom Sac",
+      "sha256": "f32ddd3c20c36948f68a650e80703e5e0d407e5fbea651785f80e1bae98dec69"
+    },
+    "mat_venom_scripture": {
+      "path": "/art/materials/mat_venom_scripture.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Venom Scripture",
+      "sha256": "1f2ee671b4cd85b5f65fa3f645b13fe10723e13257393785af316a3e471dae37"
+    },
+    "mat_brood_core": {
+      "path": "/art/materials/mat_brood_core.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Brood Core",
+      "sha256": "d90fac9bef7fafa9a3ef178c648dbe2a54e599bc30140fdefb46d72c63dd21bc"
+    },
+    "mat_spectral_thread": {
+      "path": "/art/materials/mat_spectral_thread.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part01-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Spectral Thread",
+      "sha256": "e5375fc8987b0f5879291902037e6ba598e6ced7e9c2cb5b95f8b4e3aee5dc13"
+    },
+    "mat_bulwark_fragment": {
+      "path": "/art/materials/mat_bulwark_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "Bulwark Fragment",
+      "sha256": "dddc5150d4e57d0d92495fbf2e7d9308de00a940c8e784f186695e9736240a03"
+    },
+    "mat_orichalcum_rivet": {
+      "path": "/art/materials/mat_orichalcum_rivet.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "Orichalcum Rivet",
+      "sha256": "f387ad4715ce63da86ce1983ebb4e8237913f9c470c561ed73b80a5edbbea432"
+    },
+    "mat_silent_bell_fragment": {
+      "path": "/art/materials/mat_silent_bell_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "Silent Bell Fragment",
+      "sha256": "6ab61b00a6c417b2b5c4874f34a6458b83f0e7091fba606e0230a9774bb4a4b3"
+    },
+    "mat_eclipse_claw": {
+      "path": "/art/materials/mat_eclipse_claw.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "Eclipse Claw",
+      "sha256": "003bd49a33440dc1abf5099c688db76f9f6beae94cc4e71b523e7abeb7d316fa"
+    },
+    "mat_void_relic_fragment": {
+      "path": "/art/materials/mat_void_relic_fragment.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "Void Relic Fragment",
+      "sha256": "0f66d2f5882f87c3648286c5bfebeb94dd32e5f49bfa8237354e3125cbe484a7"
+    },
+    "mat_regent_sigil": {
+      "path": "/art/materials/mat_regent_sigil.png",
+      "source": "docs/art/inventory-concept-map03-10/materials/map10-completion-part02-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "Regent Sigil",
+      "sha256": "aff91e16c0f15025eaaa53f43d327cb427c00f5ca6df0fc216c85df3d112a55c"
+    },
+    "mat_bronze_scrap": {
+      "path": "/art/materials/mat_bronze_scrap.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        433,
+        649,
+        821,
+        1141
+      ],
+      "label": "mat_bronze_scrap",
+      "sha256": "667b9ee9f989d3a6c3532517111ec5c939f4d34204f1f2405a67c8423cd86999"
+    },
+    "mat_rotten_bone_shard": {
+      "path": "/art/materials/mat_rotten_bone_shard.png",
+      "source": "docs/art/concepts/set04-bronze-samples-approved.png",
+      "rect": [
+        851,
+        649,
+        1239,
+        1141
+      ],
+      "label": "mat_rotten_bone_shard",
+      "sha256": "4fa99487ccf753304aa9571ddf3cd741e290e81350a598f9bdf5d6f1192325e6"
+    },
+    "mat_raw_hide": {
+      "path": "/art/materials/mat_raw_hide.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        18,
+        18,
+        494,
+        420
+      ],
+      "label": "mat_raw_hide",
+      "sha256": "151bdf8c8264a96036d699d62ef32f2d988250b0bed1b4c74a62c49b76f0a350"
+    },
+    "mat_snake_scale": {
+      "path": "/art/materials/mat_snake_scale.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        530,
+        18,
+        1006,
+        420
+      ],
+      "label": "mat_snake_scale",
+      "sha256": "ef49f21548d15e915ac677d55084be6397a57c9cb912b8b8f7161fdc9986b465"
+    },
+    "mat_dry_wood": {
+      "path": "/art/materials/mat_dry_wood.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        1042,
+        18,
+        1518,
+        420
+      ],
+      "label": "mat_dry_wood",
+      "sha256": "a4d32b119a2b5dfc177c5ed2eabc94660967455e801f252c4851c60a996c48d9"
+    },
+    "mat_torn_cloth": {
+      "path": "/art/materials/mat_torn_cloth.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        18,
+        530,
+        494,
+        932
+      ],
+      "label": "mat_torn_cloth",
+      "sha256": "6047b15ee5ee378496db0d6a4868f1f4de985de779f0168c2f5503bd16e240ec"
+    },
+    "mat_alpha_wolf_fang": {
+      "path": "/art/materials/mat_alpha_wolf_fang.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        530,
+        530,
+        1006,
+        932
+      ],
+      "label": "mat_alpha_wolf_fang",
+      "sha256": "539b37f2e2cbe0fdd50f5a02d299618b4b623b1c4e78b8774049e746372bb447"
+    },
+    "mat_enhancement_stone": {
+      "path": "/art/materials/mat_enhancement_stone.png",
+      "source": "docs/art/concepts/set08-tier1-materials-approved.png",
+      "rect": [
+        1042,
+        530,
+        1518,
+        932
+      ],
+      "label": "mat_enhancement_stone",
+      "sha256": "09f1011a4c17b4a298d0652f3d18ea29408c7b99b423b0214e6215bce2a5b948"
+    }
+  },
+  "units": {
+    "Summoner": {
+      "path": "/art/units/summoner.png",
+      "source": "docs/art/special-actors/dark-units-souls-approved.png",
+      "rect": [
+        21,
+        31,
+        571,
+        781
+      ],
+      "label": "Summoner",
+      "sha256": "7574a3281ed24c78438d126786fe6aee1cd4325b674c2c68ab4794622bf26649"
+    },
+    "Necromancer": {
+      "path": "/art/units/necromancer.png",
+      "source": "docs/art/special-actors/dark-units-souls-approved.png",
+      "rect": [
+        612,
+        31,
+        1162,
+        781
+      ],
+      "label": "Necromancer",
+      "sha256": "8449bdf46abef5e7e49a476afdb10d3553a8af835d46695dea0fd2aaaaa4e044"
+    },
+    "Devil Lich": {
+      "path": "/art/units/devil-lich.png",
+      "source": "docs/art/special-actors/dark-units-souls-approved.png",
+      "rect": [
+        1203,
+        31,
+        1753,
+        781
+      ],
+      "label": "Devil Lich",
+      "sha256": "3fabeb0773f1e1d1140a3269870226c267ad09646ef2a87e4b7ae6ffd4012569"
+    },
+    "Ore Spawn": {
+      "path": "/art/units/ore-spawn.png",
+      "source": "docs/art/special-actors/enemy-minions-concept-approved.png",
+      "rect": [
+        18,
+        36,
+        494,
+        850
+      ],
+      "label": "Ore Spawn",
+      "sha256": "5e395ff83aee86ea48dec4cc5eac15161829126ee727899340e5ecdd3fc1e0bf"
+    },
+    "Rift Spawn": {
+      "path": "/art/units/rift-spawn.png",
+      "source": "docs/art/special-actors/enemy-minions-concept-approved.png",
+      "rect": [
+        530,
+        36,
+        1006,
+        850
+      ],
+      "label": "Rift Spawn",
+      "sha256": "556da03805dd2f22670499ed94fc3c60787d65ac3e49bf9c1f2863eb745eedb7"
+    },
+    "Court Wraith": {
+      "path": "/art/units/court-wraith.png",
+      "source": "docs/art/special-actors/enemy-minions-concept-approved.png",
+      "rect": [
+        1042,
+        36,
+        1518,
+        850
+      ],
+      "label": "Court Wraith",
+      "sha256": "f24929924ac8a82cb933725d215838b612f58ed62ca73c9dbb3555a1d2fc0380"
+    },
+    "Pale Squirrel": {
+      "path": "/art/units/pale-squirrel.png",
+      "source": "docs/art/special-actors/pale-squirrel-concept-approved.png",
+      "rect": [
+        276,
+        154,
+        1260,
+        737
+      ],
+      "label": "Pale Squirrel",
+      "sha256": "fa12e59c22dad5a78da482659d91004200e0a659bb0da0bc8a514affec93fba9"
+    },
+    "Gravestone": {
+      "path": "/art/units/gravestone.png",
+      "source": "public/art/units/gravestone.png",
+      "sha256": "0f07c28c2575f5923c8e5adfec2f3309419faa8e022718d83fd3b03c51cc8bd8"
+    }
+  },
+  "statuses": {
+    "Poison": {
+      "path": "/art/statuses/poison.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        9,
+        16,
+        245,
+        319
+      ],
+      "label": "Poison",
+      "sha256": "e8bcf65cfa0ef61a21a695edcdb87855be7fde3747f8e61d0de60e1db496afda"
+    },
+    "Burn": {
+      "path": "/art/statuses/burn.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        262,
+        16,
+        498,
+        319
+      ],
+      "label": "Burn",
+      "sha256": "5402730c524e48f9a7cee54de9a21c0358628c180144ac7cc8a487d2ee998833"
+    },
+    "Bleeding": {
+      "path": "/art/statuses/bleeding.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        516,
+        16,
+        751,
+        319
+      ],
+      "label": "Bleeding",
+      "sha256": "513094fa68683d7a067614c5d0c5983fa5b1bf394fc718692922511d62078668"
+    },
+    "Stun": {
+      "path": "/art/statuses/stun.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        769,
+        16,
+        1005,
+        319
+      ],
+      "label": "Stun",
+      "sha256": "5f704b1709fcef969407d0567b81fec0e54e11b7888708da360b5711ffbc923d"
+    },
+    "Slow": {
+      "path": "/art/statuses/slow.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1023,
+        16,
+        1258,
+        319
+      ],
+      "label": "Slow",
+      "sha256": "1fa19f1383453a7722890778db5b37bf9b8669f0d4d68bf49015810425ffa911"
+    },
+    "Darkness": {
+      "path": "/art/statuses/darkness.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1276,
+        16,
+        1512,
+        319
+      ],
+      "label": "Darkness",
+      "sha256": "b7dbdabb04ee32ea0236bd2f54fe3001761a41fecd0ad1b8ca9da45dedb5bac8"
+    },
+    "Weaken": {
+      "path": "/art/statuses/weaken.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1529,
+        16,
+        1765,
+        319
+      ],
+      "label": "Weaken",
+      "sha256": "1a190f22eaaa1cff1cab764075ac01e2964f28dcf7d078e1234b27590d955854"
+    },
+    "Defense Break": {
+      "path": "/art/statuses/defense-break.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        9,
+        459,
+        245,
+        763
+      ],
+      "label": "Defense Break",
+      "sha256": "5872cc03593ec1bfd28b9f729479a80e6a6789a06f748548824e029b734f2a64"
+    },
+    "Wither": {
+      "path": "/art/statuses/wither.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        262,
+        459,
+        498,
+        763
+      ],
+      "label": "Wither",
+      "sha256": "707e2e6149af11fab0cf6d98c11478e054233141129c7fd06ee3b5554bf15e04"
+    },
+    "Skill Seal": {
+      "path": "/art/statuses/skill-seal.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        516,
+        459,
+        751,
+        763
+      ],
+      "label": "Skill Seal",
+      "sha256": "c2b7a7e6a294c1c24d93f9e911c5cce626d7bf7a98161eab73f8ad33b833c347"
+    },
+    "Taunt": {
+      "path": "/art/statuses/taunt.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        769,
+        459,
+        1005,
+        763
+      ],
+      "label": "Taunt",
+      "sha256": "b107cf65e66e69fccea9810f0bd788ef16b3dfe137f423be0a9663ab57bafe4c"
+    },
+    "Trap": {
+      "path": "/art/statuses/trap.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1023,
+        459,
+        1258,
+        763
+      ],
+      "label": "Trap",
+      "sha256": "a9c9a4f5558cd1be89054c9f6c6c884e0c4c4d4d61577eef703f79f4973a73b2"
+    },
+    "Doom Mark": {
+      "path": "/art/statuses/doom-mark.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1276,
+        459,
+        1512,
+        763
+      ],
+      "label": "Doom Mark",
+      "sha256": "5b4353e67d94e7817b57ff494b7c738dc2f663d0952413b490b2d85180ca8e69"
+    },
+    "Shield": {
+      "path": "/art/statuses/shield.png",
+      "source": "docs/art/ui-status/status-14-concept-approved.png",
+      "rect": [
+        1529,
+        459,
+        1765,
+        763
+      ],
+      "label": "Shield",
+      "sha256": "5df53019e810fabe5572dcc96665c0eb9700dfac26ac3cab4bd7d87688bd2856"
+    }
+  },
+  "navigation": {
+    "World": {
+      "path": "/art/navigation/world.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        13,
+        18,
+        371,
+        358
+      ],
+      "label": "World",
+      "sha256": "ce6caf2127b95c799c262b7048877f01dee1a11e3aa1949d849d1885c03d0a02"
+    },
+    "Party": {
+      "path": "/art/navigation/party.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        397,
+        18,
+        755,
+        358
+      ],
+      "label": "Party",
+      "sha256": "cda45b385daddfe72e7670be9e0c27d94c5bfabf523e3484ccc9e4fe84ae09d5"
+    },
+    "Inventory": {
+      "path": "/art/navigation/inventory.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        781,
+        18,
+        1139,
+        358
+      ],
+      "label": "Inventory",
+      "sha256": "9187c56d692b7caf40103bbe98a176df9777e6ff60d50784bf4cb9cdc69f5cf1"
+    },
+    "Craft": {
+      "path": "/art/navigation/craft.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        1165,
+        18,
+        1523,
+        358
+      ],
+      "label": "Craft",
+      "sha256": "557a4d8abad4a40bf7d84b19125f51289520e9fae23afefd9a463e6a1d9a8678"
+    },
+    "Journal": {
+      "path": "/art/navigation/journal.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        13,
+        530,
+        371,
+        870
+      ],
+      "label": "Journal",
+      "sha256": "9fff0a0c8c5de913b63c1feb1a6a064c563e42ad5d289939628c95eb36a67066"
+    },
+    "Tasks": {
+      "path": "/art/navigation/tasks.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        397,
+        530,
+        755,
+        870
+      ],
+      "label": "Tasks",
+      "sha256": "ae4e7528b6f7c63d0b34ef0b35449f6cee006f387c20d870693bbb28c8821ac3"
+    },
+    "Settings": {
+      "path": "/art/navigation/settings.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        781,
+        530,
+        1139,
+        870
+      ],
+      "label": "Settings",
+      "sha256": "3c998640aea19192b24cf6bdfc5abc96b3ad52772ac41f976700fa389aaf8a58"
+    },
+    "Tombstone": {
+      "path": "/art/navigation/tombstone.png",
+      "source": "docs/art/concepts/set05-ui-essentials-approved.png",
+      "rect": [
+        1165,
+        530,
+        1523,
+        870
+      ],
+      "label": "Tombstone",
+      "sha256": "7bb181a0b475d6afdeba4dbcdec29cc76d105149101159af5aabf131c6f75a1b"
+    }
+  },
+  "backgrounds": {
+    "map01": {
+      "path": "/art/backgrounds/map01.webp",
+      "source": "docs/art/backgrounds/map01-10/map01-ashwood-forest.png",
+      "sha256": "82e4ab356f9d8a3c17eae83b6f2d79fe0ad4da1a19e2f495910d397156db042d"
+    },
+    "map02": {
+      "path": "/art/backgrounds/map02.webp",
+      "source": "docs/art/backgrounds/map01-10/map02-graymist-hills.png",
+      "sha256": "ce4ecf96df2604975fdddc9302a6f6f1e5e6b26784808dbbb7d4265641e5d75b"
+    },
+    "map03": {
+      "path": "/art/backgrounds/map03.webp",
+      "source": "docs/art/backgrounds/map01-10/map03-wild-marsh.png",
+      "sha256": "549805118a110cbe8acd63b724a16bf47d21683447c557ae883256366e934f52"
+    },
+    "map04": {
+      "path": "/art/backgrounds/map04.webp",
+      "source": "docs/art/backgrounds/map01-10/map04-forgotten-cemetery.png",
+      "sha256": "58a32d38861bb390c82491281703ad97690d6876922acc7fa01e2e3defedc2eb"
+    },
+    "map05": {
+      "path": "/art/backgrounds/map05.webp",
+      "source": "docs/art/backgrounds/map01-10/map05-lament-mine.png",
+      "sha256": "0b998959f968edfa68b801ee242f517089af0ffaaabb64fce1515b8c79e8413a"
+    },
+    "map06": {
+      "path": "/art/backgrounds/map06.webp",
+      "source": "docs/art/backgrounds/map01-10/map06-hanging-village.png",
+      "sha256": "206895b910656bbc1ba1173f6817abac466fa4e74e31d3a7efbf0b787065fee1"
+    },
+    "map07": {
+      "path": "/art/backgrounds/map07.webp",
+      "source": "docs/art/backgrounds/map01-10/map07-blood-monastery.png",
+      "sha256": "0df949d1cfefe85a96d59328f3e1c2aad31ce1bf89579ea441d9c6a0577b8b27"
+    },
+    "map08": {
+      "path": "/art/backgrounds/map08.webp",
+      "source": "docs/art/backgrounds/map01-10/map08-cursed-citadel.png",
+      "sha256": "662d16cd1c24232bf4581a56afd57584293c4063a35439f773aa42aef815b9d9"
+    },
+    "map09": {
+      "path": "/art/backgrounds/map09.webp",
+      "source": "docs/art/backgrounds/map01-10/map09-bone-valley.png",
+      "sha256": "c6de856523ed70713490cb415ec21273df078a660a157b5beb053a23db47eaa6"
+    },
+    "map10": {
+      "path": "/art/backgrounds/map10.webp",
+      "source": "docs/art/backgrounds/map01-10/map10-soul-devouring-abyss.png",
+      "sha256": "468cf0daa29083f274a70fa3756b007a03c2a1ccd362a0d86242f83703cd4f4b"
+    },
+    "menu": {
+      "path": "/art/backgrounds/menu.webp",
+      "source": "docs/art/backgrounds/main-menu-background-concept-approved.png",
+      "sha256": "6232df570c32816c1346a5f76792499b62271e5485ba7f07db74794ecd4118aa"
+    }
+  }
+}

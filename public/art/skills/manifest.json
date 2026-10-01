@@ -1,0 +1,1010 @@
+[
+  {
+    "className": "Warrior",
+    "slot": 0,
+    "name": "Heavy Strike",
+    "kind": "Main",
+    "path": "/art/skills/warrior-0.png",
+    "sha256": "23f9ab23bad265ac3a8841ac1c40ecf0484b64a8dd1347bc04b45789f1388d82"
+  },
+  {
+    "className": "Fighter",
+    "slot": 0,
+    "name": "Armor Break",
+    "kind": "Main",
+    "path": "/art/skills/fighter-0.png",
+    "sha256": "ad82720196236960a119a44381eb3cafd28f4db1c120670d0f70b7869d908104"
+  },
+  {
+    "className": "Fighter",
+    "slot": 1,
+    "name": "Combat Training",
+    "kind": "Passive",
+    "path": "/art/skills/fighter-1.png",
+    "sha256": "d6170c27155032502fe2f97e40c9a6747ad49686a0801d5c8baf903386e5430c"
+  },
+  {
+    "className": "Duelist",
+    "slot": 0,
+    "name": "Bloodblade",
+    "kind": "Main",
+    "path": "/art/skills/duelist-0.png",
+    "sha256": "4a827e73960a232af05ebec794e5af42a8500d93e31b7844a6c9ad9cd7f57481"
+  },
+  {
+    "className": "Duelist",
+    "slot": 1,
+    "name": "Blood Hunger",
+    "kind": "Passive",
+    "path": "/art/skills/duelist-1.png",
+    "sha256": "04c6030064f45e167519ae86eb753ebecac8e35bb72fe780d7c35e52e4aa8bd0"
+  },
+  {
+    "className": "Duelist",
+    "slot": 2,
+    "name": "Crimson Frenzy",
+    "kind": "Passive",
+    "path": "/art/skills/duelist-2.png",
+    "sha256": "dd8e33a41ea4252c3bfb041e48ea6d288cd4e4a1bb72d46ab036a2f2e4869211"
+  },
+  {
+    "className": "Berserker",
+    "slot": 0,
+    "name": "Bloodrage Slash",
+    "kind": "Main",
+    "path": "/art/skills/berserker-0.png",
+    "sha256": "a746f4414c427d0f7def52609a61356d75ee6bec586e76ac1097006b68b044a5"
+  },
+  {
+    "className": "Berserker",
+    "slot": 1,
+    "name": "Blood Hunger",
+    "kind": "Passive",
+    "path": "/art/skills/berserker-1.png",
+    "sha256": "c7442905c96327fff072ec23f5000855505051b5f25c1c9f0d0dae7e88b77416"
+  },
+  {
+    "className": "Berserker",
+    "slot": 2,
+    "name": "Crimson Frenzy",
+    "kind": "Passive",
+    "path": "/art/skills/berserker-2.png",
+    "sha256": "9ade9fce142c5299918e7d8d7adc6cd460fe36f64be442e94fefe1f31a31b575"
+  },
+  {
+    "className": "Destroyer",
+    "slot": 0,
+    "name": "Ruinous Cleave",
+    "kind": "Main",
+    "path": "/art/skills/destroyer-0.png",
+    "sha256": "1e120f5fd577e9719c3a0d65c2beab2cbcf5071dace8173c0cfe8ea3286b6c93"
+  },
+  {
+    "className": "Destroyer",
+    "slot": 1,
+    "name": "Blood Hunger",
+    "kind": "Passive",
+    "path": "/art/skills/destroyer-1.png",
+    "sha256": "b2bed3a599601ccb5e9ca1ab236a9edf43eb3a741cee328ba1c5f229ce72a698"
+  },
+  {
+    "className": "Destroyer",
+    "slot": 2,
+    "name": "Crimson Frenzy",
+    "kind": "Passive",
+    "path": "/art/skills/destroyer-2.png",
+    "sha256": "42017ff7a0b539014f24604d6ace2a727930504edddf4d8c05e3062800e754b9"
+  },
+  {
+    "className": "Crusader",
+    "slot": 0,
+    "name": "Steel Riposte",
+    "kind": "Main",
+    "path": "/art/skills/crusader-0.png",
+    "sha256": "e2ce0d4abd594b20ad909b1b499dea04949be3fca231e30a5c9a22770c7d289c"
+  },
+  {
+    "className": "Crusader",
+    "slot": 1,
+    "name": "Steel Reprisal",
+    "kind": "Passive",
+    "path": "/art/skills/crusader-1.png",
+    "sha256": "0accaea562691a4d2fc28132022baba3d35c9938e24baef63c2ae464f2815e14"
+  },
+  {
+    "className": "Crusader",
+    "slot": 2,
+    "name": "Vengeful Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/crusader-2.png",
+    "sha256": "e05bf8b1c1f26ba8dbcb610c2b8b96461c7804977d38c6a3a6937f1d5d84b7f4"
+  },
+  {
+    "className": "Battle Slayer",
+    "slot": 0,
+    "name": "Slaughtering Riposte",
+    "kind": "Main",
+    "path": "/art/skills/battle-slayer-0.png",
+    "sha256": "33dac7f354caa9f2afaede5d7b78ac590fbaa16f498b447f7f7e065565116bf4"
+  },
+  {
+    "className": "Battle Slayer",
+    "slot": 1,
+    "name": "Steel Reprisal",
+    "kind": "Passive",
+    "path": "/art/skills/battle-slayer-1.png",
+    "sha256": "8140cad926ba9189453eed186bb53cbabc062f99f45df372c0ea3cf822c586a5"
+  },
+  {
+    "className": "Battle Slayer",
+    "slot": 2,
+    "name": "Vengeful Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/battle-slayer-2.png",
+    "sha256": "51b0f69488582a7ec3e372fcb04d88912f52fdb4af4db3ca4fa97a51fb8c4c70"
+  },
+  {
+    "className": "Valkyrie",
+    "slot": 0,
+    "name": "Vengeful Descent",
+    "kind": "Main",
+    "path": "/art/skills/valkyrie-0.png",
+    "sha256": "f0727e6e20c574fd7c27dc6380defab516b642cc69c9e73c0c4963f1bfc7be53"
+  },
+  {
+    "className": "Valkyrie",
+    "slot": 1,
+    "name": "Steel Reprisal",
+    "kind": "Passive",
+    "path": "/art/skills/valkyrie-1.png",
+    "sha256": "ad6efb5022fbb111b30aebb88695a516e619fa9b07e4425897c76f6f1ac69c34"
+  },
+  {
+    "className": "Valkyrie",
+    "slot": 2,
+    "name": "Vengeful Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/valkyrie-2.png",
+    "sha256": "c634b1cc7a80c9c837e1e2527b4d07da88120c80ce7d5e43f6c4951363535c7b"
+  },
+  {
+    "className": "Knight",
+    "slot": 0,
+    "name": "Iron Guard",
+    "kind": "Main",
+    "path": "/art/skills/knight-0.png",
+    "sha256": "03649f60c1b9e093b8e1a02d8ec041df49f77edeb56e5805b7a36d255eb99526"
+  },
+  {
+    "className": "Knight",
+    "slot": 1,
+    "name": "Iron Constitution",
+    "kind": "Passive",
+    "path": "/art/skills/knight-1.png",
+    "sha256": "41e2a5fd3e7b73578d060f11d787c1f98a30573556cd2b3b4ba3475f291fb738"
+  },
+  {
+    "className": "Paladin",
+    "slot": 0,
+    "name": "Holy Bulwark",
+    "kind": "Main",
+    "path": "/art/skills/paladin-0.png",
+    "sha256": "7264a6861c7c2c371f005c797d4d1c56beda99a230bcd96c4a6d4e6616b568da"
+  },
+  {
+    "className": "Paladin",
+    "slot": 1,
+    "name": "Iron Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/paladin-1.png",
+    "sha256": "fd3ef9acb591bbfe9d9421a5bab52ce1b59f1400c07cb7c95582c345271ddded"
+  },
+  {
+    "className": "Paladin",
+    "slot": 2,
+    "name": "Renewing Bastion",
+    "kind": "Passive",
+    "path": "/art/skills/paladin-2.png",
+    "sha256": "e6018d29a609512f27825779187916ba2b79889b7241b86b60a95c6bd8c87301"
+  },
+  {
+    "className": "Guardian",
+    "slot": 0,
+    "name": "Unyielding Fortress",
+    "kind": "Main",
+    "path": "/art/skills/guardian-0.png",
+    "sha256": "0dd805cd62b1e8d31a89a677982dc7fe086d82a2ac0da2cdc1c09c2c051f0938"
+  },
+  {
+    "className": "Guardian",
+    "slot": 1,
+    "name": "Iron Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/guardian-1.png",
+    "sha256": "df1b5b34cad7afa026830e04786cbcd9c162e42e0f48fdf55fc94109a75f8c45"
+  },
+  {
+    "className": "Guardian",
+    "slot": 2,
+    "name": "Renewing Bastion",
+    "kind": "Passive",
+    "path": "/art/skills/guardian-2.png",
+    "sha256": "4926cdebc37251473d359d49ddcbd6af9b5200f0ec7584d30c482eeba23656ae"
+  },
+  {
+    "className": "Aegis",
+    "slot": 0,
+    "name": "Eternal Bastion",
+    "kind": "Main",
+    "path": "/art/skills/aegis-0.png",
+    "sha256": "98e43abe3704b93595593855c5a9e86b430f446d4a76feb4c558ff0db3200b24"
+  },
+  {
+    "className": "Aegis",
+    "slot": 1,
+    "name": "Iron Resolve",
+    "kind": "Passive",
+    "path": "/art/skills/aegis-1.png",
+    "sha256": "6f5c7d3d3ed5d77261d7f6de53c8121c875c1e174840f24a1927295b52f6f3b4"
+  },
+  {
+    "className": "Aegis",
+    "slot": 2,
+    "name": "Renewing Bastion",
+    "kind": "Passive",
+    "path": "/art/skills/aegis-2.png",
+    "sha256": "8c3639aeb384f78dac1023c63412df890322db1770f2cff852a8c96afd2dbfa0"
+  },
+  {
+    "className": "Vanguard",
+    "slot": 0,
+    "name": "Challenge",
+    "kind": "Main",
+    "path": "/art/skills/vanguard-0.png",
+    "sha256": "a686ff6e3a61797337078f3eb58aa698676a3a98c4f4488c0642bec94eee8b2a"
+  },
+  {
+    "className": "Vanguard",
+    "slot": 1,
+    "name": "Warborn Constitution",
+    "kind": "Passive",
+    "path": "/art/skills/vanguard-1.png",
+    "sha256": "76f03a4d508bd55427eb9750c2eb414700a2d6c58cdf54a277bb116cbd0bb370"
+  },
+  {
+    "className": "Vanguard",
+    "slot": 2,
+    "name": "Battle Recovery",
+    "kind": "Passive",
+    "path": "/art/skills/vanguard-2.png",
+    "sha256": "a1de9e76c1ddf32f6b08c830d16dd4bbca391b88ddb6bb03227bbfd3c3ab7717"
+  },
+  {
+    "className": "Vanguard",
+    "slot": 3,
+    "name": "Undying Will",
+    "kind": "Passive",
+    "path": "/art/skills/vanguard-3.png",
+    "sha256": "430f331fb1ee928d30c8ea84e9145991b5a420845a1255e6632b9f2292e6a8cd"
+  },
+  {
+    "className": "Warbringer",
+    "slot": 0,
+    "name": "Overwhelming Warcry",
+    "kind": "Main",
+    "path": "/art/skills/warbringer-0.png",
+    "sha256": "90f39ec41164672315b10885431da14a4df259daf0d120d93c38afe8cf5ee45c"
+  },
+  {
+    "className": "Warbringer",
+    "slot": 1,
+    "name": "Warborn Constitution",
+    "kind": "Passive",
+    "path": "/art/skills/warbringer-1.png",
+    "sha256": "da65503a7277cf457c29e05f889e736d747baa7a554d0cc428c6b098d2e3ac4b"
+  },
+  {
+    "className": "Warbringer",
+    "slot": 2,
+    "name": "Battle Recovery",
+    "kind": "Passive",
+    "path": "/art/skills/warbringer-2.png",
+    "sha256": "ea2d1fa73d59dcd7a7f609597119515a14f9d534eb23677f221aefdd4a0a3d1b"
+  },
+  {
+    "className": "Warbringer",
+    "slot": 3,
+    "name": "Undying Will",
+    "kind": "Passive",
+    "path": "/art/skills/warbringer-3.png",
+    "sha256": "3e17815e98370e3f6f2cd54844d7323ac01fe4df51fa88ec9499bc25a342ec1a"
+  },
+  {
+    "className": "Dreadlord",
+    "slot": 0,
+    "name": "Dread Dominion",
+    "kind": "Main",
+    "path": "/art/skills/dreadlord-0.png",
+    "sha256": "2db12e99372e7b7d8b4fc27ed231ba046bf858b07d3d90b93e4b376e511233b7"
+  },
+  {
+    "className": "Dreadlord",
+    "slot": 1,
+    "name": "Warborn Constitution",
+    "kind": "Passive",
+    "path": "/art/skills/dreadlord-1.png",
+    "sha256": "0d6a20362c40bcaa99ccd3b4b30a1a641ff44876a78f15dac0283d379f71313f"
+  },
+  {
+    "className": "Dreadlord",
+    "slot": 2,
+    "name": "Battle Recovery",
+    "kind": "Passive",
+    "path": "/art/skills/dreadlord-2.png",
+    "sha256": "4e01b4380bb6077c7aa8e9f16d9e0e6f846d0098f2a61fc597eb14061911785d"
+  },
+  {
+    "className": "Dreadlord",
+    "slot": 3,
+    "name": "Undying Will",
+    "kind": "Passive",
+    "path": "/art/skills/dreadlord-3.png",
+    "sha256": "c4067598acc748e5f47c70689edd63cb589a48a1224c0464dda62164ecfa9660"
+  },
+  {
+    "className": "Mage",
+    "slot": 0,
+    "name": "Arcane Burst",
+    "kind": "Main",
+    "path": "/art/skills/mage-0.png",
+    "sha256": "6167fbef09b1e5b39bf503fba42cd9d6b9a88a439b2983cb1cb7ab6f90203877"
+  },
+  {
+    "className": "Wizard",
+    "slot": 0,
+    "name": "Mana Storm",
+    "kind": "Main",
+    "path": "/art/skills/wizard-0.png",
+    "sha256": "10ac0f7a00263333e8b9cb57877b66fb014cd9e9d781e756eb68f23238c4d58c"
+  },
+  {
+    "className": "Wizard",
+    "slot": 1,
+    "name": "Arcane Study",
+    "kind": "Passive",
+    "path": "/art/skills/wizard-1.png",
+    "sha256": "0452f12f9e972ecc143ce44f5bec30b0309bad6d660ec0e9ecd48e4a4d04c9a2"
+  },
+  {
+    "className": "Elemental",
+    "slot": 0,
+    "name": "Elemental Storm",
+    "kind": "Main",
+    "path": "/art/skills/elemental-0.png",
+    "sha256": "b99f07e37281b2582520fc144e757e9eeaf3eb9d090b6375f455dcc1d488d57c"
+  },
+  {
+    "className": "Elemental",
+    "slot": 1,
+    "name": "Arcane Focus",
+    "kind": "Passive",
+    "path": "/art/skills/elemental-1.png",
+    "sha256": "58302a4b36ea932f3172450c9537eeb2ec00f1a3ac70f24187d2701b963a0ef7"
+  },
+  {
+    "className": "Elemental",
+    "slot": 2,
+    "name": "Spellbreaker",
+    "kind": "Passive",
+    "path": "/art/skills/elemental-2.png",
+    "sha256": "3a7d81696607519a2ef46a9a935f2c914643f76803744775c453b360345659e6"
+  },
+  {
+    "className": "Arcanister",
+    "slot": 0,
+    "name": "Arcane Tempest",
+    "kind": "Main",
+    "path": "/art/skills/arcanister-0.png",
+    "sha256": "6dda8f5b6f443bac9e15e4aeee8d0867bcb9d5b106c03ea227f1ed8c6742a867"
+  },
+  {
+    "className": "Arcanister",
+    "slot": 1,
+    "name": "Arcane Focus",
+    "kind": "Passive",
+    "path": "/art/skills/arcanister-1.png",
+    "sha256": "be81beb12be75117281b26d7caf89e719c08d93d10d0f31591f351a0200f1794"
+  },
+  {
+    "className": "Arcanister",
+    "slot": 2,
+    "name": "Spellbreaker",
+    "kind": "Passive",
+    "path": "/art/skills/arcanister-2.png",
+    "sha256": "097b600bb35ec023828d7e3365dd46461dc4d348d2e809bfca94323be6899bdd"
+  },
+  {
+    "className": "Chaos Weaver",
+    "slot": 0,
+    "name": "Chaos Convergence",
+    "kind": "Main",
+    "path": "/art/skills/chaos-weaver-0.png",
+    "sha256": "a0da63a984cd998e5290ccf81aa5ed03a1ce954295f36bba53d1ecfdb0c10530"
+  },
+  {
+    "className": "Chaos Weaver",
+    "slot": 1,
+    "name": "Arcane Focus",
+    "kind": "Passive",
+    "path": "/art/skills/chaos-weaver-1.png",
+    "sha256": "e3b0565ad998ce60d97659e3ac7420661aaf1bb8806f6ef53058b9560d3cd9e4"
+  },
+  {
+    "className": "Chaos Weaver",
+    "slot": 2,
+    "name": "Spellbreaker",
+    "kind": "Passive",
+    "path": "/art/skills/chaos-weaver-2.png",
+    "sha256": "d5ebbbc7f16735c6eb9c153e9b4ebb96d9102afbe90d7e7b43a376448868d21f"
+  },
+  {
+    "className": "Summoner",
+    "slot": 0,
+    "name": "Summon Dark Unit",
+    "kind": "Main",
+    "path": "/art/skills/summoner-0.png",
+    "sha256": "5365e56e1b0e0d38a60528c86ccb0aec2187c57b1ef513da1615807bcfb56023"
+  },
+  {
+    "className": "Summoner",
+    "slot": 1,
+    "name": "Dark Covenant",
+    "kind": "Passive",
+    "path": "/art/skills/summoner-1.png",
+    "sha256": "6c1aa52b141af35eecd52f05c1de3d3d5d8f186d4e8a5641de64934457f07865"
+  },
+  {
+    "className": "Summoner",
+    "slot": 2,
+    "name": "Soul Renewal",
+    "kind": "Passive",
+    "path": "/art/skills/summoner-2.png",
+    "sha256": "e8d54b7b4ac33b5302d09644a8019beca3cdf8f0fedaf9b03630e370f2c29361"
+  },
+  {
+    "className": "Necromancer",
+    "slot": 0,
+    "name": "Necromantic Summon",
+    "kind": "Main",
+    "path": "/art/skills/necromancer-0.png",
+    "sha256": "d06dc696d1609bfc46e4a2d2be7764d952a09215fdeab34d4e1d79419bdf8ac4"
+  },
+  {
+    "className": "Necromancer",
+    "slot": 1,
+    "name": "Dark Covenant",
+    "kind": "Passive",
+    "path": "/art/skills/necromancer-1.png",
+    "sha256": "619c52965124fc9bcc40aef07f44d21bc7a5c0f234bb1caf214ea36303a7a697"
+  },
+  {
+    "className": "Necromancer",
+    "slot": 2,
+    "name": "Soul Renewal",
+    "kind": "Passive",
+    "path": "/art/skills/necromancer-2.png",
+    "sha256": "e0ab503d3fc5d32412150199272b2d97317816dfa6a6bd27d977328259947956"
+  },
+  {
+    "className": "Devil Lich",
+    "slot": 0,
+    "name": "Abyssal Reanimation",
+    "kind": "Main",
+    "path": "/art/skills/devil-lich-0.png",
+    "sha256": "a2444b8a736b739d81244bf824fca3a9cfcbe2385c5016cc055561012c80053a"
+  },
+  {
+    "className": "Devil Lich",
+    "slot": 1,
+    "name": "Dark Covenant",
+    "kind": "Passive",
+    "path": "/art/skills/devil-lich-1.png",
+    "sha256": "57bfa234a60886566ced27f31b354b5446865862719c336786d9578944272304"
+  },
+  {
+    "className": "Devil Lich",
+    "slot": 2,
+    "name": "Soul Renewal",
+    "kind": "Passive",
+    "path": "/art/skills/devil-lich-2.png",
+    "sha256": "ec0ac457e78cc4e5b9451b0878c5fd4d717acc5f94a82b34bf6fb9a1a3c9acc7"
+  },
+  {
+    "className": "Cleric",
+    "slot": 0,
+    "name": "Restoring Light",
+    "kind": "Main",
+    "path": "/art/skills/cleric-0.png",
+    "sha256": "a3a4f533fff8491c531ffa12687183b3a0f94f88a459cc376c4d9462699f884e"
+  },
+  {
+    "className": "Cleric",
+    "slot": 1,
+    "name": "Sacred Vigor",
+    "kind": "Passive",
+    "path": "/art/skills/cleric-1.png",
+    "sha256": "dead200fc0b2a72dd819fd7d32092544dbd29f402e4f33fd697c63bc09eec4b4"
+  },
+  {
+    "className": "Priest",
+    "slot": 0,
+    "name": "Saving Light",
+    "kind": "Main",
+    "path": "/art/skills/priest-0.png",
+    "sha256": "c70cdb004e1d82b8d4e73d5ca95e0c9bb63645b6d3da14007e87e8dd9a16195d"
+  },
+  {
+    "className": "Priest",
+    "slot": 1,
+    "name": "Blessed Touch",
+    "kind": "Passive",
+    "path": "/art/skills/priest-1.png",
+    "sha256": "4d03f3dce6fbffb3ea0f66f9d1ea5df146a906776b242aff5eb35b0a08877575"
+  },
+  {
+    "className": "Priest",
+    "slot": 2,
+    "name": "Saving Grace",
+    "kind": "Passive",
+    "path": "/art/skills/priest-2.png",
+    "sha256": "59eecb94e23611093a8e12027cf35d063c6336ae698a8119640b71976d6a23f9"
+  },
+  {
+    "className": "Hierophant",
+    "slot": 0,
+    "name": "Eternal Light",
+    "kind": "Main",
+    "path": "/art/skills/hierophant-0.png",
+    "sha256": "9f7e8fa232ac4b0bb14659b834d02e6559f2a9febe82ef629d9d18b5038328ab"
+  },
+  {
+    "className": "Hierophant",
+    "slot": 1,
+    "name": "Blessed Touch",
+    "kind": "Passive",
+    "path": "/art/skills/hierophant-1.png",
+    "sha256": "1c4beb7f6bccb94058f26ff819d46025aae1221358b4d2987e5dcd10b99fc792"
+  },
+  {
+    "className": "Hierophant",
+    "slot": 2,
+    "name": "Saving Grace",
+    "kind": "Passive",
+    "path": "/art/skills/hierophant-2.png",
+    "sha256": "b8daed432479d84d91d7a51721e4c739964b897ade7e06ce67116d0d2937aaeb"
+  },
+  {
+    "className": "Soul Saint",
+    "slot": 0,
+    "name": "Soul Benediction",
+    "kind": "Main",
+    "path": "/art/skills/soul-saint-0.png",
+    "sha256": "72dd4d7128c1aed5cbbdde366fc3ec22bdddfc0995a8994b723bf68dc72b9efd"
+  },
+  {
+    "className": "Soul Saint",
+    "slot": 1,
+    "name": "Blessed Touch",
+    "kind": "Passive",
+    "path": "/art/skills/soul-saint-1.png",
+    "sha256": "7de974e32ba1f5ad9b33e8c4886546f7a3a48ec00e2ed09ada75f666537db2a9"
+  },
+  {
+    "className": "Soul Saint",
+    "slot": 2,
+    "name": "Saving Grace",
+    "kind": "Passive",
+    "path": "/art/skills/soul-saint-2.png",
+    "sha256": "eccb4639ccfc7afb9db8066488e5a5d35f7943b6bdf3e702d86fd2242ff0784d"
+  },
+  {
+    "className": "Battle Mage",
+    "slot": 0,
+    "name": "Purifying Barrier",
+    "kind": "Main",
+    "path": "/art/skills/battle-mage-0.png",
+    "sha256": "5c971ba076e31a17f06ed27a986ce5a97999341d03629a3d25ab170c383f6b2e"
+  },
+  {
+    "className": "Battle Mage",
+    "slot": 1,
+    "name": "Sacred Armor",
+    "kind": "Passive",
+    "path": "/art/skills/battle-mage-1.png",
+    "sha256": "959deea3a97441ec39d531e024081544f5a1dd63d31f32a2a18b74a9a99583d7"
+  },
+  {
+    "className": "Battle Mage",
+    "slot": 2,
+    "name": "Purification",
+    "kind": "Passive",
+    "path": "/art/skills/battle-mage-2.png",
+    "sha256": "984149247f94438e5f83a002216027453827949dc7e6d25c02647a5c027032e4"
+  },
+  {
+    "className": "Templar",
+    "slot": 0,
+    "name": "Sacred Ward",
+    "kind": "Main",
+    "path": "/art/skills/templar-0.png",
+    "sha256": "35f78de316d3d6e8f8f966c070918746892d6973809be4e72932f84b9a923247"
+  },
+  {
+    "className": "Templar",
+    "slot": 1,
+    "name": "Sacred Armor",
+    "kind": "Passive",
+    "path": "/art/skills/templar-1.png",
+    "sha256": "e2a173afabd150a0fd110ae203b92bc7e5bc92c207a8d49d4c08e7dd9d6b006a"
+  },
+  {
+    "className": "Templar",
+    "slot": 2,
+    "name": "Purification",
+    "kind": "Passive",
+    "path": "/art/skills/templar-2.png",
+    "sha256": "4467d8b8547508d5983d19007303efc087ac3ae35d5980c9c56d47f1a0720f57"
+  },
+  {
+    "className": "Inquisitor",
+    "slot": 0,
+    "name": "Sanctified Ward",
+    "kind": "Main",
+    "path": "/art/skills/inquisitor-0.png",
+    "sha256": "769f7a8c0e43d72e1b057def4ec0bd955d3e52e99dc3c54566bf344b7baa4cc8"
+  },
+  {
+    "className": "Inquisitor",
+    "slot": 1,
+    "name": "Sacred Armor",
+    "kind": "Passive",
+    "path": "/art/skills/inquisitor-1.png",
+    "sha256": "95cc1239254f53fa73be918b8a966c3c0eed73dd26ff1565efc3077e806ef9ec"
+  },
+  {
+    "className": "Inquisitor",
+    "slot": 2,
+    "name": "Purification",
+    "kind": "Passive",
+    "path": "/art/skills/inquisitor-2.png",
+    "sha256": "2d4adde8e4d8984c34c99ba10cffa021a82d5bd92df78e5c8306a53e48b4f9e7"
+  },
+  {
+    "className": "Rogue",
+    "slot": 0,
+    "name": "Twin Strike",
+    "kind": "Main",
+    "path": "/art/skills/rogue-0.png",
+    "sha256": "460bbae07da2f2a9712e5da66e6d0958993dbc766d7eb997c258db4934da49c4"
+  },
+  {
+    "className": "Assassin",
+    "slot": 0,
+    "name": "Shadow Strike",
+    "kind": "Main",
+    "path": "/art/skills/assassin-0.png",
+    "sha256": "9bf3c95257a5c6f5dd09afc1d1acc2524cb88e5b1828d0ca4f9634a5ff35466b"
+  },
+  {
+    "className": "Assassin",
+    "slot": 1,
+    "name": "Assassin\u2019s Instinct",
+    "kind": "Passive",
+    "path": "/art/skills/assassin-1.png",
+    "sha256": "8952ae715594809d90a104c2d15fb5dc3de709a2a4c9d648447692fa491a9a3c"
+  },
+  {
+    "className": "Mist Dancer",
+    "slot": 0,
+    "name": "Mist Dance",
+    "kind": "Main",
+    "path": "/art/skills/mist-dancer-0.png",
+    "sha256": "c96dbc9e6998d46331f059097ff736b0a1e8b493349fb56fa9434ad974ce33c2"
+  },
+  {
+    "className": "Mist Dancer",
+    "slot": 1,
+    "name": "Dancer\u2019s Grace",
+    "kind": "Passive",
+    "path": "/art/skills/mist-dancer-1.png",
+    "sha256": "81b5088346f3057989d93100f71a3525167f94ac45606c120f4a5df0c04a488e"
+  },
+  {
+    "className": "Mist Dancer",
+    "slot": 2,
+    "name": "Deadly Rhythm",
+    "kind": "Passive",
+    "path": "/art/skills/mist-dancer-2.png",
+    "sha256": "da24e294c331544ce2571e8e98ed657cc7b1482a75666a257fa3aa3c4a55c228"
+  },
+  {
+    "className": "Soul Dancer",
+    "slot": 0,
+    "name": "Soul Dance",
+    "kind": "Main",
+    "path": "/art/skills/soul-dancer-0.png",
+    "sha256": "2a3be3002c51ca8224db89e504d952f4c6bd394f217008ae11463266fe3ef2df"
+  },
+  {
+    "className": "Soul Dancer",
+    "slot": 1,
+    "name": "Dancer\u2019s Grace",
+    "kind": "Passive",
+    "path": "/art/skills/soul-dancer-1.png",
+    "sha256": "a800d539c216dce67b4bed57b4ecd1dd992bad083cfcdc867a8ff24143e362bb"
+  },
+  {
+    "className": "Soul Dancer",
+    "slot": 2,
+    "name": "Deadly Rhythm",
+    "kind": "Passive",
+    "path": "/art/skills/soul-dancer-2.png",
+    "sha256": "a298a7c9b8b6acd4e64ff36978cc094b3c65036e2a8b7ee414b00db8d864bccc"
+  },
+  {
+    "className": "Spectral Dancer",
+    "slot": 0,
+    "name": "Spectral Waltz",
+    "kind": "Main",
+    "path": "/art/skills/spectral-dancer-0.png",
+    "sha256": "941e32a4d9d6298703f6ed9b9f69a1af134a5ac25c71b9d48016414848995b1f"
+  },
+  {
+    "className": "Spectral Dancer",
+    "slot": 1,
+    "name": "Dancer\u2019s Grace",
+    "kind": "Passive",
+    "path": "/art/skills/spectral-dancer-1.png",
+    "sha256": "d4b8bf4d5bb5a04d856cd703ea6e4e88fc67e03a515943336574bf0ee95fa5a7"
+  },
+  {
+    "className": "Spectral Dancer",
+    "slot": 2,
+    "name": "Deadly Rhythm",
+    "kind": "Passive",
+    "path": "/art/skills/spectral-dancer-2.png",
+    "sha256": "ea73486b528ffe48805559431b6531750a08a5a0e877c365c9d2197057e76d1d"
+  },
+  {
+    "className": "Nightwalker",
+    "slot": 0,
+    "name": "Night Slash",
+    "kind": "Main",
+    "path": "/art/skills/nightwalker-0.png",
+    "sha256": "1f07e4c7b0e76f624557516e8523712c1475b031fb2ce0c797faffb56c987898"
+  },
+  {
+    "className": "Nightwalker",
+    "slot": 1,
+    "name": "Shadow Power",
+    "kind": "Passive",
+    "path": "/art/skills/nightwalker-1.png",
+    "sha256": "8a528b520d745f8a3e8f733416f9816b2b27d5ca99c24f3fed01d28d302c6b41"
+  },
+  {
+    "className": "Nightwalker",
+    "slot": 2,
+    "name": "Void Edge",
+    "kind": "Passive",
+    "path": "/art/skills/nightwalker-2.png",
+    "sha256": "84fd8b3877ab857d59395362f15a13ae5cc4a401d55e67ec9e994bd37c69339c"
+  },
+  {
+    "className": "Shadowstalker",
+    "slot": 0,
+    "name": "Venomshadow Slash",
+    "kind": "Main",
+    "path": "/art/skills/shadowstalker-0.png",
+    "sha256": "3dc03941e88b0500788888903e4e3d8880ecfb8069b6e2030da48a5efe2c711c"
+  },
+  {
+    "className": "Shadowstalker",
+    "slot": 1,
+    "name": "Shadow Power",
+    "kind": "Passive",
+    "path": "/art/skills/shadowstalker-1.png",
+    "sha256": "068d44168ecd1e6da5a45ae1a27ebca14aae8045b1dad515daf05759ef6b3421"
+  },
+  {
+    "className": "Shadowstalker",
+    "slot": 2,
+    "name": "Void Edge",
+    "kind": "Passive",
+    "path": "/art/skills/shadowstalker-2.png",
+    "sha256": "0f9fdc750767da442e76605ba9da6d938ed4af6c4deba69a738f40774977cabe"
+  },
+  {
+    "className": "Void Reaper",
+    "slot": 0,
+    "name": "Void Harvest",
+    "kind": "Main",
+    "path": "/art/skills/void-reaper-0.png",
+    "sha256": "e6bb109cc7bccf4623ea9cf08bf69a8f73253b66479973eca88302a8f50be5a4"
+  },
+  {
+    "className": "Void Reaper",
+    "slot": 1,
+    "name": "Shadow Power",
+    "kind": "Passive",
+    "path": "/art/skills/void-reaper-1.png",
+    "sha256": "1fdc9cf71462b566be2ef2f08d5ae605f2ad394468540090f8fb13d8c58db2f2"
+  },
+  {
+    "className": "Void Reaper",
+    "slot": 2,
+    "name": "Void Edge",
+    "kind": "Passive",
+    "path": "/art/skills/void-reaper-2.png",
+    "sha256": "cabc8b97483311d08b9d2bd3766ca029f78a1878918500978daea84c87d4b0a3"
+  },
+  {
+    "className": "Sniper",
+    "slot": 0,
+    "name": "Piercing Shot",
+    "kind": "Main",
+    "path": "/art/skills/sniper-0.png",
+    "sha256": "f6c7437db7516290d7f75537e07c14d51a376f89017ee8eec0f6135e18ff1090"
+  },
+  {
+    "className": "Sniper",
+    "slot": 1,
+    "name": "Steady Aim",
+    "kind": "Passive",
+    "path": "/art/skills/sniper-1.png",
+    "sha256": "0f51e74d2edf8fcefc3f6f89fc2dc5de8c71b2721bbd3d5670a596dc43c461f0"
+  },
+  {
+    "className": "Dead Eye",
+    "slot": 0,
+    "name": "Armor-Piercing Volley",
+    "kind": "Main",
+    "path": "/art/skills/dead-eye-0.png",
+    "sha256": "7d79ee599eb51f84d349802be2da35195becc85b978673fbb3c90bfec17f6974"
+  },
+  {
+    "className": "Dead Eye",
+    "slot": 1,
+    "name": "Eagle Eye",
+    "kind": "Passive",
+    "path": "/art/skills/dead-eye-1.png",
+    "sha256": "b64a13310f525458a1e1e62b8b904e7aacc0111c99c08d44fc0e26f5fe3c44f7"
+  },
+  {
+    "className": "Dead Eye",
+    "slot": 2,
+    "name": "Piercing Focus",
+    "kind": "Passive",
+    "path": "/art/skills/dead-eye-2.png",
+    "sha256": "93ecaf34d82a4757ec367b61da6479149a4971ac56430ab2983444a4358d9ed9"
+  },
+  {
+    "className": "Rift Scout",
+    "slot": 0,
+    "name": "Rift Volley",
+    "kind": "Main",
+    "path": "/art/skills/rift-scout-0.png",
+    "sha256": "6d9074699169750e40a9d4528902d530cfc6a0a062a216983b53355f897b7259"
+  },
+  {
+    "className": "Rift Scout",
+    "slot": 1,
+    "name": "Eagle Eye",
+    "kind": "Passive",
+    "path": "/art/skills/rift-scout-1.png",
+    "sha256": "17305862cbaab5339e2e3685da2806355a074c6ce99d792fb77ad8fb6b1dc21a"
+  },
+  {
+    "className": "Rift Scout",
+    "slot": 2,
+    "name": "Piercing Focus",
+    "kind": "Passive",
+    "path": "/art/skills/rift-scout-2.png",
+    "sha256": "18b725b3a7ae7f6f525f2e5b06be038ce4e21991412ab09dee3ce5b3db8e9b21"
+  },
+  {
+    "className": "Soul Sniper",
+    "slot": 0,
+    "name": "Soulpiercer Volley",
+    "kind": "Main",
+    "path": "/art/skills/soul-sniper-0.png",
+    "sha256": "1694ecafc855ec4731492c9e2ff85544171ed50c0b004f1e1e07e39ac66eaad8"
+  },
+  {
+    "className": "Soul Sniper",
+    "slot": 1,
+    "name": "Eagle Eye",
+    "kind": "Passive",
+    "path": "/art/skills/soul-sniper-1.png",
+    "sha256": "7a4efab6f82e5690ebbc4ff2e92f86dd03f3a969fb9468365d448c2415c73278"
+  },
+  {
+    "className": "Soul Sniper",
+    "slot": 2,
+    "name": "Piercing Focus",
+    "kind": "Passive",
+    "path": "/art/skills/soul-sniper-2.png",
+    "sha256": "6ab49f07295f3f8b2c702b742c619736dfc63e5f8949e2712d974805c0c4aae9"
+  },
+  {
+    "className": "Heartmarksman",
+    "slot": 0,
+    "name": "Snare Volley",
+    "kind": "Main",
+    "path": "/art/skills/heartmarksman-0.png",
+    "sha256": "1d43f9055b59a96b6d6cab3ebd18d95c198ebe3bc9d2d7b89936ce0c7b847814"
+  },
+  {
+    "className": "Heartmarksman",
+    "slot": 1,
+    "name": "Hunter\u2019s Instinct",
+    "kind": "Passive",
+    "path": "/art/skills/heartmarksman-1.png",
+    "sha256": "b05229d9ee8c435fc625af7eac1536f1e43fee0b7f223720bca644152fd1c820"
+  },
+  {
+    "className": "Heartmarksman",
+    "slot": 2,
+    "name": "Trapmaster",
+    "kind": "Passive",
+    "path": "/art/skills/heartmarksman-2.png",
+    "sha256": "7215fc64cabb15ec4df5445ebdd9b1ba239f5dafcd077169e0a4fce3aa22f473"
+  },
+  {
+    "className": "Apex Alpha",
+    "slot": 0,
+    "name": "Deathtrap Barrage",
+    "kind": "Main",
+    "path": "/art/skills/apex-alpha-0.png",
+    "sha256": "11ab606fbdbfb92489bbb4658517924406dfbbd614b332d2423cd1629cb2f956"
+  },
+  {
+    "className": "Apex Alpha",
+    "slot": 1,
+    "name": "Hunter\u2019s Instinct",
+    "kind": "Passive",
+    "path": "/art/skills/apex-alpha-1.png",
+    "sha256": "9fa3b797c59d3aada14f9bab59084f9baeca0ce14f78d546d981cedcddace990"
+  },
+  {
+    "className": "Apex Alpha",
+    "slot": 2,
+    "name": "Trapmaster",
+    "kind": "Passive",
+    "path": "/art/skills/apex-alpha-2.png",
+    "sha256": "494b30c09cc6e6439d4f389eb958c3800c8f8c4fa35eae441303385a8abcac7f"
+  },
+  {
+    "className": "Tempest Gale",
+    "slot": 0,
+    "name": "Tempest Barrage",
+    "kind": "Main",
+    "path": "/art/skills/tempest-gale-0.png",
+    "sha256": "30204abe199b60cf01f536ec14e382df73af82dce8c7d2805b76613fc4eb213b"
+  },
+  {
+    "className": "Tempest Gale",
+    "slot": 1,
+    "name": "Hunter\u2019s Instinct",
+    "kind": "Passive",
+    "path": "/art/skills/tempest-gale-1.png",
+    "sha256": "acca66b469c86585dfbf7b036f7d914b2cbecaeb8cbec57b1eecc4ed059f58df"
+  },
+  {
+    "className": "Tempest Gale",
+    "slot": 2,
+    "name": "Trapmaster",
+    "kind": "Passive",
+    "path": "/art/skills/tempest-gale-2.png",
+    "sha256": "94832a3b7db1d3c7f3442de7b72d851912dc918cad49fef768e91e5753a90f57"
+  }
+]

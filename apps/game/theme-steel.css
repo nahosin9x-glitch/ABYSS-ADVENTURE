@@ -1,0 +1,207 @@
+/* Steel & stone 1A: shared theme across every screen and sheet. */
+:root {
+  --stone-art:url('/art/backgrounds/steel-stone.webp');
+  --steel:#7b8285;
+  --steel-dark:#33393d;
+  --steel-light:#b9b8ac;
+  --panel:#303438;
+  --text-main:#f0e9d6;
+  --text-muted:#c9c6bb;
+  --accent:#d4a14c;
+  background-color:#34383b;
+  background-image:var(--stone-art);
+  background-size:256px;
+  color:var(--text-main);
+}
+body { background:transparent; color:var(--text-main); }
+#app { padding:12px 10px calc(var(--nav-height) + 24px); }
+header,section,.character-strip,.character-overview,.gear-picker section,.item-sheet,.craft-sheet,.evolve-sheet,.upgrade-sheet,.expedition-select,.summon-sheet {
+  border:2px solid var(--steel);
+  border-radius:3px;
+  background-color:var(--panel);
+  background-image:linear-gradient(#272c30b8,#22272bdd),var(--stone-art);
+  background-size:auto,256px;
+  box-shadow:inset 0 0 0 1px #15191c,inset 0 0 0 3px #62696b,0 3px 0 #171b1d,0 5px 9px #0005;
+  color:var(--text-main);
+}
+header { padding:12px; margin-bottom:12px; gap:8px; }
+header h1 { font-size:clamp(21px,5vw,34px);line-height:1.2;text-shadow:1px 2px #161a1e; }
+header small { font-size:10px;letter-spacing:.1em;color:#d1c5a8; }
+.wallet { font-size:12px;line-height:1.8;white-space:nowrap;color:#e8bd72; }
+h2,h3,h4,strong { color:var(--text-main); }
+p { color:var(--text-muted); }
+small { color:#c8b990; }
+button:not(.craft-open):not(.character-strip),select,input {
+  color:var(--text-main);
+  background-color:#383e42;
+  background-image:linear-gradient(#454a4d99,#252b30cc),var(--stone-art);
+  background-size:auto,256px;
+  border:1px solid #899092;
+  border-radius:3px;
+  box-shadow:inset 0 0 0 1px #1c2225,inset 0 0 0 2px #5a6267,0 2px 0 #181c20;
+  text-shadow:0 1px #171b1f;
+}
+button:not(:disabled):active { filter:brightness(1.2);transform:translateY(1px); }
+button:disabled { opacity:.52;cursor:default; }
+button[aria-current='page'],button[aria-pressed='true'],.evolve-trigger,.party-actions>button:first-child,.upgrade-sheet>button[data-command],.roster-open-row>button,.craft-sheet>button[data-command] {
+  background-color:#805a27!important;
+  background-image:linear-gradient(#aa7e3699,#523615cc),var(--stone-art)!important;
+  border-color:#d5a45a!important;
+  box-shadow:inset 0 0 0 1px #4b341b,inset 0 0 0 2px #9a743e,0 2px 0 #181c20!important;
+  color:#fff0c9!important;
+}
+nav { background:#343a3e; background-image:var(--stone-art);background-size:256px;border-top:2px solid #828b8e;gap:5px;padding:8px 8px calc(8px + env(safe-area-inset-bottom)); }
+nav button { min-height:66px;border-width:2px!important;padding:6px 3px;font-size:12px; }
+nav button img { width:30px;height:30px;object-fit:contain;image-rendering:pixelated;filter:drop-shadow(1px 2px #15191e); }
+.map-card { padding:12px; }
+.map-art { border:2px solid #8b9293;border-radius:2px;box-shadow:inset 0 0 0 2px #272c30;overflow:hidden; }
+.map-art>img { border-radius:0;image-rendering:pixelated; }
+.map-card h2 { font-size:24px;margin:12px 0 8px;text-shadow:1px 2px #20252a; }
+.map-card p { margin:9px 0;font-size:14px; }
+.map-card .map-actions { grid-template-columns:repeat(3,minmax(0,1fr));gap:6px; }
+.map-card .map-actions button { min-height:42px;font-size:11px; }
+.map-card .map-actions button[data-command*='boss'] { color:#f0cb87;border-color:#b89254; }
+.character-strip { padding:11px; }
+.character-strip strong { color:#f1e7cc; }
+.character-sheet .character-overview,.stat-grid>div,.trait-details,.combat-log,.gear-choice-art,.upgrade-art,.item-detail { background-color:#2e3438;border-color:#7a8386;border-radius:2px; }
+.stat-grid>div { color:#f5f0df;box-shadow:inset 0 1px #979c9b33; }
+.stat-grid b { color:#d4d4c9; }
+.trait-details { color:#e0d1ac; }
+.character-back,.gear-picker-back,.evolve-back { background:#30363b;border-bottom:1px solid #7f888c; }
+.gear-choice,.gear-slot,.item-slot,.craft-material,.evolve-option { border-radius:3px;border-color:#7a8588;background-color:#333a3e; }
+.gear-choice[data-rarity],.gear-slot[data-rarity],.item-slot[data-rarity] { border-color:var(--rarity);background:radial-gradient(circle at 45% 20%,var(--rarity-glow),#30383d 80%);box-shadow:inset 0 0 0 1px #161c20; }
+.gear-choice-art { background:#222a2e; }
+.equipment-base small,.equipment-bonus small { color:#d4ba83; }
+.equipment-bonus { border-color:#7b8588; }
+.craft-row { padding:10px; }
+.craft-open { background:transparent;border:0;box-shadow:none;color:var(--text-main); }
+.craft-open strong { color:#eee5cf; }
+.log,.combat-log { background:#293035;color:#e5decb;border:1px solid #727e82; }
+.combat-log p,.log p { color:#e1dfd5; }
+.log-entries p { border-bottom-color:#73808a33; }
+#arena { border:2px solid #818b8c;border-radius:2px; }
+.battle-heading strong { color:#e6cc97; }
+.daily-chest { background:#30383d;border-color:#929184;border-radius:3px; }
+.daily-chest.ready { border-color:#d7ad62; }
+.bestiary-title h3 { color:#e9d6b0; }
+.enemy-description { color:#d7d8ce; }
+footer { color:#a9b1af;font-size:11px;text-align:center;margin-top:20px; }
+img { image-rendering:pixelated; }
+@media(max-width:380px) { header { padding:10px; }header h1 { font-size:20px; }.wallet { font-size:10px; }.map-card { padding:10px; }nav button { font-size:11px; } }
+/* Upright transparent class sprites: readable silhouettes on scenic maps. */
+.battle-side.player .battle-sprite { max-width:none;flex:1 1 0; }
+.battle-side.player .sprite-image img {
+  width:100%;height:144px;max-height:144px;max-width:100%;
+  object-fit:contain;object-position:center bottom;
+  image-rendering:pixelated;
+  filter:drop-shadow(-1px -1px 0 #d3c7ad66) drop-shadow(1px 2px 0 #11191e);
+}
+.battle-side.player { background:linear-gradient(transparent 25%,#18252b22); }
+.battle-side.player .battle-sprite strong { font-size:11px;line-height:1.3;color:#f5efdd;text-shadow:1px 1px #111; }
+.character-sheet .character-portrait { width:80px;height:120px;flex:0 0 80px;object-fit:contain;filter:drop-shadow(1px 2px 0 #11191e); }
+.character-strip>img,.party-row>img { width:68px;height:86px;object-fit:contain;flex:0 0 68px;filter:drop-shadow(1px 2px 0 #11191e); }
+.summon-circle img { width:180px;height:200px; }
+.evolve-option>img { width:82px;height:110px;object-fit:contain; }
+@media(max-height:700px) { .battle-side.player .sprite-image img { height:118px;max-height:118px; } }
+@media(max-width:380px) { .character-sheet .character-portrait { width:70px;flex-basis:70px;height:108px; }.character-strip>img,.party-row>img { width:60px;flex-basis:60px;height:78px; } }
+
+/* Character trait and data-backed skill inspection. */
+.trait-line { display:block; color:#ffb04f !important; font-size:15px; line-height:1.5; margin:4px 0; white-space:normal; }
+.character-skills { margin:12px 0 16px; padding:10px; border:1px solid #747b7b; background:#161c1dd9; }
+.character-skills h3 { margin:0 0 9px; }
+.skill-row { display:flex; gap:8px; overflow-x:auto; padding-bottom:5px; }
+.skill-cell { flex:1 0 92px; min-width:0; display:flex; flex-direction:column; align-items:center; justify-content:space-between; gap:6px; padding:10px 5px; }
+.skill-cell b { font-size:13px; line-height:1.25; overflow-wrap:anywhere; }
+.skill-cell small { font-size:12px; color:#ffb04f; }
+.skill-symbol { font-size:28px; color:#e9d4a1; }
+.skill-description { font-size:17px; line-height:1.65; color:#eee5d5; }
+.skill-kind { color:#ffb04f; }
+.skill-sheet { max-height:80dvh; overflow-y:auto; }
+
+.skill-icon { width:54px; height:54px; object-fit:contain; image-rendering:pixelated; }
+.empty-skill { display:block; width:54px; height:54px; }
+.skill-cell { flex:1 0 0; }
+.locked-skill { opacity:.45; }
+
+/* Approved Abyss ruins background B; steel controls remain legible. */
+:root { background-color:#090a12; background-image:url('/art/backgrounds/abyss-ruins-B.png'); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:fixed; }
+header, section, .character-strip { background-image:linear-gradient(#1b2026dc,#141922ec); }
+
+/* Abyss dark moss frames. */
+:root { --steel:#3e4a32; --steel-dark:#1c2418; --steel-light:#82906e; --panel:#11170f; --accent:#788965; }
+header,section,.character-strip,.character-overview,.gear-picker section,.item-sheet,.craft-sheet,.evolve-sheet,.upgrade-sheet,.expedition-select,.summon-sheet,.character-skills { border-color:#3e4a32; box-shadow:inset 0 0 0 1px #090e07,inset 0 0 0 4px #26321f,0 3px 0 #040703; background-image:linear-gradient(#11170fe0,#0c1109ed); }
+button,select { border-color:#435137; background-color:#182014; color:#e6e8db; }
+nav { background:#0b1109e8; border-color:#3e4a32; }
+.character-back,.gear-picker-back,.evolve-back { background:#171f12; border-color:#3e4a32; }
+.stat-grid>div,.trait-details,.combat-log { border-color:#35422b; background:#10170c; }
+.monster-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; }
+.monster-card { display:flex; flex-direction:column; align-items:center; gap:8px; padding:10px 5px; min-height:125px; }
+.monster-card img { width:72px;height:72px;object-fit:contain;image-rendering:pixelated; }
+.monster-card b { font-size:13px; }
+.monster-shadow { width:72px;height:72px;background:radial-gradient(ellipse,#11180d,#040703);border-radius:50%;box-shadow:0 0 18px #081005; }
+.unknown-monster { opacity:1; color:#6d795f; }
+.monster-info { max-height:85dvh;overflow-y:auto; }
+
+/* All control frames share the Abyss palette; rarity outlines retain their meaning. */
+button:not(.craft-open):not(.character-strip),select,input {
+ background-color:#182014; background-image:linear-gradient(#293720bb,#10180bee);
+ border-color:#4c5d3d; box-shadow:inset 0 0 0 1px #080d06,inset 0 0 0 2px #2d3b24,0 2px 0 #040703;
+}
+button[aria-current='page'],button[aria-pressed='true'],.evolve-trigger,.party-actions>button:first-child,.upgrade-sheet>button[data-command],.roster-open-row>button,.craft-sheet>button[data-command] {
+ background-color:#2e3f22!important;background-image:linear-gradient(#425830bb,#1b2913ee)!important;
+ border-color:#6b8052!important;box-shadow:inset 0 0 0 1px #0d1608,inset 0 0 0 2px #4a6035,0 2px 0 #040703!important;
+}
+.map-art,#arena,.character-skills,.gear-choice-art,.upgrade-art,.item-detail,.equipment-bonus,.log,.daily-chest,.enemy-info-frame { border-color:#3e4a32; }
+.gear-choice,.gear-slot,.item-slot,.craft-material,.evolve-option { background-color:#171f12; }
+.gear-choice[data-rarity],.gear-slot[data-rarity],.item-slot[data-rarity] { border-color:var(--rarity);background:radial-gradient(circle at 45% 20%,var(--rarity-glow),#171f12 80%); }
+.enemy-info-frame { border:1px solid #3e4a32; background:#10170bdd; padding:10px; margin-top:12px; }
+.enemy-info-frame h4 { margin:0 0 10px; }
+.enemy-skill-tile { display:flex;gap:10px;align-items:flex-start; }
+.enemy-skill-tile img { width:48px;height:48px;object-fit:contain; }
+.enemy-skill-tile p { margin:6px 0 0;font-size:14px;line-height:1.5; }
+.enemy-drop-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px; }
+.enemy-drop-tile { border:1px solid #3a4c2c;background:#17200f;display:flex;flex-direction:column;align-items:center;gap:6px;padding:8px 4px;text-align:center; }
+.enemy-drop-tile img { width:42px;height:42px;object-fit:contain; }
+.enemy-drop-tile strong { font-size:12px;overflow-wrap:anywhere; }
+.enemy-drop-tile small { font-size:11px; }
+.monster-info .bestiary-title img { width:72px;height:72px;object-fit:contain; }
+select option { background:#17200f;color:#e6e8db; }
+
+/* Dark moss perimeter applied to every remaining neutral frame. */
+.map-card .map-actions button[data-command*='boss'] { border-color:#4c5d3d; }
+.character-sheet .character-overview,.stat-grid>div,.trait-details,.combat-log,.gear-choice-art,.upgrade-art,.item-detail,.craft-material,.evolve-option,.daily-chest,.log,#arena,.map-art { border-color:#3e4a32; }
+.gear-slot:not([data-rarity]),.gear-choice:not([data-rarity]),.item-slot:not([data-rarity]) { border-color:#3e4a32; }
+.daily-chest.ready { border-color:#6b8052; }
+nav { background-image:linear-gradient(#10180dee,#0b1109ee); }
+
+/* Compact world map and normal-release inventory wallet. */
+.map-name-row,.inventory-title-row { display:flex;align-items:center;justify-content:space-between;gap:8px; }
+.map-name-row h3 { margin:10px 0;font-size:20px; }
+.map-name-row span { font-size:12px;white-space:nowrap;color:#b5be9f; }
+.map-card .map-actions { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.map-card [data-return-combat] { grid-column:auto; }
+.inventory-title-row h2 { font-size:20px; }
+.inventory-gold { color:#e8bd72; font-size:14px;white-space:nowrap; }
+.inventory-currencies { margin:8px 0 12px; }
+.summon-ticket-slot { width:98px; padding:8px;display:flex;flex-direction:column;align-items:center;gap:4px;border:1px solid #3e4a32;background:#11170f; }
+.summon-ticket-slot img { width:44px;height:44px;object-fit:contain; }
+.summon-ticket-slot strong { font-size:12px; }
+.battle-side.player .sprite-image img { width:82%;height:116px;max-height:116px; }
+.character-sheet .character-portrait { width:70px;flex-basis:70px;height:104px; }
+.character-strip>img,.party-row>img { width:58px;flex-basis:58px;height:74px; }
+.summon-circle img { width:155px;height:175px; }
+.evolve-option>img { width:70px;height:94px; }
+.battle-side.enemy .boss-sprite .sprite-image img { height:158px;max-height:158px;max-width:100%; }
+@media(max-height:700px) { .battle-side.player .sprite-image img { height:100px;max-height:100px; }.battle-side.enemy .boss-sprite .sprite-image img { height:138px;max-height:138px; } }
+
+/* Equal hero/monster silhouettes, larger bosses, independent of party count. */
+.battle-side.player .battle-sprite,.battle-side.enemy .battle-sprite { flex:0 1 96px;max-width:24%; }
+.battle-side.player .sprite-image img,.battle-side.enemy .sprite-image img { width:80px;height:90px;max-height:90px;max-width:100%;object-fit:contain; }
+.battle-side.enemy .battle-sprite.boss-sprite { flex:0 1 220px;max-width:65%; }
+.battle-side.enemy .boss-sprite .sprite-image img { width:210px;height:190px;max-height:190px;max-width:100%; }
+.battle-side.player { --popup-height:90px; }
+.battle-side.enemy { --popup-height:90px; }
+.boss-sprite { --popup-height:190px; }
+.character-sheet .character-portrait { width:60px;flex-basis:60px;height:84px; }
+.character-strip>img,.party-row>img { width:50px;flex-basis:50px;height:64px; }
+@media(max-height:700px) { .battle-side.player .sprite-image img,.battle-side.enemy .sprite-image img { height:78px;max-height:78px; }.battle-side.enemy .boss-sprite .sprite-image img { height:160px;max-height:160px; }.battle-side.player,.battle-side.enemy {--popup-height:78px;}.boss-sprite {--popup-height:160px;} }

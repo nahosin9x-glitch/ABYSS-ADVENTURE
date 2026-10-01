@@ -1,0 +1,52 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { JSDOM } from 'jsdom';
+import { showArena, clearArena } from '../apps/game/arena.ts';
+
+test('damage event synchronizes source lunge and target slash once, including a final hit', async () => {
+  clearArena();
+  const {window} = new JSDOM('<div id="arena"></div>');
+  const host = window.document.querySelector('#arena');
+  const hero = {id:'hero',templateId:'Warrior',name:'Hero',side:'player',kind:'character',hp:10,stats:{HP:10},statuses:[]};
+  const foe = {id:'foe',templateId:'enemy_ash_wolf',name:'Wolf',side:'enemy',kind:'enemy',hp:5,stats:{HP:5},statuses:[]};
+  const b = {id:'visual-event-test',map:1,actors:[hero,foe],visualEvents:[],visualSequence:0,action:{actor:'hero',start:0,isSkill:false}};
+  showArena(host,b);
+  assert.equal(host.querySelector('.attacking'),null);
+  const next = {...b,actors:[hero,{...foe,hp:0}],visualSequence:1,visualEvents:[{sequence:1,source:'hero',target:'foe',value:-5,skill:false,action:'hero|0',at:1500}]};
+  showArena(host,next);
+  assert.ok(host.querySelector('.battle-side.player .attacking'));
+  assert.ok(host.querySelector('.battle-side.enemy .struck'));
+  assert.equal(host.querySelector('.battle-side.enemy .fallen'),null);
+  showArena(host,next);
+  assert.equal(host.querySelectorAll('.hp-damage').length,1);
+  await new Promise(resolve => setTimeout(resolve,550));
+  assert.ok(host.querySelector('.battle-side.enemy .fallen'));
+  clearArena();
+  window.close();
+});
+
+test('combat places enemies above heroes and replaces fallen actor with grave art', () => {
+  const { window } = new JSDOM('<div id="arena"></div>');
+  const host = window.document.querySelector('#arena');
+  const actor = (side, hp, id) => ({id, templateId:side === 'enemy' ? 'enemy_ash_wolf' : 'Warrior', name:id, side, kind:side === 'enemy' ? 'enemy' : 'character', hp, stats:{HP:10}, statuses:[]});
+  showArena(host,{map:1,actors:[actor('player',0,'Hero'),actor('enemy',10,'Wolf')]});
+  assert.equal(host.querySelector('.battle-side:first-child').classList.contains('enemy'),true);
+  assert.equal(host.querySelector('.battle-side:last-child').classList.contains('player'),true);
+  assert.match(host.querySelector('.battle-side.player img').getAttribute('src'),/gravestone\.png$/);
+  const next = {map:1,id:'new_battle',actors:[actor('player',10,'Hero'),actor('enemy',10,'Wolf')],action:{actor:'Hero',targets:['Wolf']}};
+  showArena(host,next);
+  assert.ok(host.querySelector('.battle-side.player .attacking'));
+  showArena(host,{...next,actors:[actor('player',10,'Hero'),actor('enemy',5,'Wolf')]});
+  assert.ok(host.querySelector('.battle-side.enemy .struck .slash-mark'));
+  assert.match(host.querySelector('.battle-side.enemy .hp-damage').textContent, /5 HP/);
+  const sprite = host.querySelector('.battle-side.player .battle-sprite');
+  showArena(host,{...next,actors:[actor('player',10,'Hero'),actor('enemy',5,'Wolf')]});
+  assert.equal(host.querySelector('.battle-side.player .battle-sprite'), sprite, 'turn animation should not restart on refresh');
+  assert.equal(host.querySelectorAll('.battle-side.enemy .hp-damage').length, 1);
+  showArena(host,{...next,action:{...next.action,start:1,isSkill:true},actors:[actor('player',10,'Hero'),actor('enemy',3,'Wolf')]});
+  assert.ok(host.querySelector('.battle-side.player .casting'));
+  assert.ok(host.querySelector('.battle-side.enemy .spell-impact'));
+  showArena(host,{...next,action:{...next.action,start:2},actors:[actor('player',10,'Hero'),actor('enemy',5,'Wolf')]});
+  assert.match(host.querySelector('.battle-side.enemy .hp-heal').textContent, /\+2 HP/);
+  clearArena();
+});
